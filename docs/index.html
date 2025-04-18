@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>Roguemon Pokemon Challenge</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="shortcut icon" href="img/favicon.png" />
+    <style>
+        body {
+            transform:none; 
+        }	
+    </style>
+
+</head>
+<body>
+
+    <hgroup>
+        <h1>RogueMon</h1>
+    </hgroup>
+
+    <a href="https://discord.gg/C88N88yfCP" target="_blank">
+        <img loading="lazy" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg" 
+             title="Join The Discord" 
+             class="download">
+    </a>
+    <button id="theme"></button>
+
+    <p id="brief" style="margin-left: 20%;"> <strong>Roguemon</strong> was created by <a href="https://www.twitch.tv/crozwords">Crozwords</a></p>
+    <p id="brief" style="margin-left: 25%;">  You can join the <a href="https://discord.gg/C88N88yfCP">Discord Here!</a></p>
+    <p id="brief" style="margin-left: 40%;"><a href="https://ko-fi.com/H2H71CAGIA">Ko-fi Support </a><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" style="width: 25px; height: 25px;"></p>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#rules">Rules</a></li>
+            <li><a href="#Ascensions">Ascensions</a></li>
+            <li><a href="#game-progress">Game Progress</a></li>
+            <li><a href="#curses">Curses</a></li>
+            <li><a href="#prizes">Prizes</a></li>
+            <li><a href="#routing">Routing</a></li>
+            <li><a href="#Setup">Setup Guides</a></li>
+            <li><a href="#faq">FAQ</a></li>
+        </ul>
+    </nav>
+
+    <div id="home" class="section-container">
+        <section id="what-is">
+            <h1>What is RogueMon?</h1>
+            <ul class="features">
+                <p>RogueMON combines elements of Roguelikes, Ironmon Game Modes, and Randomized Challenges.</p>
+                <p>The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord listed above.</p>
+                
+            </ul>
+        </section>
+        <section id="roguelikes">
+            <h1>ROGUELIKES</h1>
+            <p>Often have difficult choices and a “linear” element.</p>
+            <p>The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones.</p>
+            <p>There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome.</p>
+            <p>There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory.</p>
+            <p>There will also be ‘ascensions’ or difficulty levels to progress through.</p>
+        </section>
+        <section id="ironmon">
+            <h1>IRONMON</h1>
+            <p>Roguelikes and Ironmon both have a “permadeath” feature.</p>
+            <p>The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting by only fighting trainers. All stats, abilities, items, moves (learnable via level and TMs) are randomized.</p>
+            <p>Unlike Ironmon, evolutions in RogueMON will SHARE BST distribution AND ability. Any additional BST from the evolution will be randomly distributed ON TOP of the previous mons.</p>
+            <p>Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.</p>
+        </section>
+        <section id="evolutions">
+        <h1>EVOLUTIONS</h1>
+            <p>All pokemon available in the game will be able to evolve at least once. Evolutions are randomized, but with some logic:</p>
+            <p>The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%).</p>
+            <p>No cancelling evolutions. Everstones are allowed if desired, if acquired by a prize. Roguestone use is a choice.</p>
+            <p>Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top.</p>
+            <p>In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution target divided by 10. Note, this will not be known until it is hit!</p>
+            <p>Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.</p>
+        </section>
+        <section>
+            
+            <iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/-VqNbw8Ksfc?si=HRqPeDiV-62iTMd3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            
+        </section>
+
+    </div>
+    <section id="faq" class="page">
+        <h1>-- FAQ --</h1>
+            
+        <section>
+            <h1>Difficulty equivalence?</h1>
+            <p>Ascension 1 is closer to "Ultimate IronMon".</p>
+            <p>Ascension 2, and Kaizo IronMon are similar difficulty, but you're also likely to win in less 'attempts'. </p>
+            <p>Ascension 3 hasn't had much testing, and is still in development, with that said it will likely fall between Kaizo IronMon and Super Kaizo IronMon.</p>
+        </section>
+        
+        <section>
+            <h1>General Questions</h1>
+            <p>Q : In A1 when can you equip the lucky egg?</p>
+            <p>A : You can equip it as soon as you get it, but after you beat Brock it's gotta go.</p>
+            <br>
+            <p>Q : I'm struggling with getting RogueMon running</p>
+            <p>A : The discord is currently the best place to get any help, it has many resources and you are free to ask questions</p>
+            <br>
+            <p>Q : Where is the Move Re-learner?</p>
+            <P>A : It's in Celadon City, in the house next to the Pokemon Center. This can not be pre-scouted</P>
+            <br>
+            <p>Q : What does evolution "BST/10" mean?</p>
+            <p>A : The bst of whatever you evo into /10. So if you are a Minior that evos into a galarian articuno(580bst). Your Minior will evo at level 58 for 580/10.</p>
+            <br>
+            <p>Q : How do I move to Ascension 2 attempts?</p>
+            <p>A : Make new profiles with the AS2 rnqs files, then in the tracker go to the RogueMon extension go into options and tick 5 Curses</p>
+            <br>
+            <p>Q : How do I start new games directly in the lab?</p>
+            <p>A : Go to the lab or where you want to save, save using the in-game menus, then flush the SaveRAM (Bizhawk > File > SaveRAM > Flush).</p>
+        </section>
+    </section>
+            
+    <section id="rules" class="page">
+        <h1>-- RULES --</h1>
+
+        <div class="rulesSections">
+            <section>
+                <h1>Before you start playing</h1>
+                <p>In the tracker, you need to toggle to display HP heals in bag as a whole number and not a percentage. (Settings>Gameplay>Options)</p>
+                <p>In the Discord there are extended guides with full details and pictures of each route</p>
+            </section>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">ROGUEMON RULES</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>Lab</h1>
+                    <p>Lab mons are guaranteed to be base form evolutions and will evolve at least once.</p>
+                    <p>You can choose your starter in the lab.</p>
+                    <p>You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the Roguemon Tracker extension. Get the 5th from the Mart employee on Route 1.</p>
+                </section>
+
+                <section>
+                    <h1>WILD POKEMON</h1>
+                    <p>Wild pokemon will be any un-evolved pokemon that can evolve by level, friendship, or a game mode exclusive "Roguestone". Type can be specified in the Roguemon-randomizer.</p>
+                    
+                    <p>Pokemon in the wild have a 100% catch rate.</p>
+                    
+                    <p>Wild Pokemon have a 50% increase to their level in all ascensions.</p>
+                    
+                    <p>Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt.</p>
+                    
+                    <p>You may catch 5 pokemon, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose.</p>
+                    
+                    <p>Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground.</p>
+                    
+                    <p>You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends.</p>
+                    
+                    <p>You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience.</p>
+                    
+                    <p>If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue.</p>
+                    
+                    <p>After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run.</p>
+                    
+                    <p>All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1.</p>
+                    
+                    <p>Shiny Rule - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Croz.</p>
+                </section>
+
+                <section>
+                    <h1>BANNED MOVE/ABILITY LIST</h1>
+                    <p>Passive Healing moves or HP manipulation moves are banned.</p>
+                    
+                    <p>Passive Healing Items are also banned. I.e.</p>
+                    <p>Pain Split, Leech Seed, Leftovers, Black Sludge+Poison Type, Rain Dance+Rain Dish, etc.</p>
+                    
+                    <p>Damaging healing moves and items are allowed. i.e.</p>
+                    <p>Draining Kiss/Giga Drain or Shell Bell (Some limitations based on Ascension Difficulty).</p>
+                    
+                    <p>You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon, and Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon.</p>
+                    
+                    <p>Huge Power/Pure Power is banned in AS2 and AS3.</p>
+                    
+                    <p>Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned.</p>
+                    
+                    <p>Any move/ability combo that guarantees OHKO is banned.</p>
+                </section>
+
+                <section>
+                    <h1>BAG SPACE CAP</h1>
+                    <p>There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.</p>
+                    
+                    <p>Caps are tracked automatically in the Roguemon Tracker Extension. Please change to reflect heals as whole number (Settings>Gameplay>Options).</p>
+                    
+                    <p>Caps do not apply until you have locked in your pokemon to run.</p>
+                    
+                    <p>0 badges = HP = 150, Status = 3</p>
+                    <p>1 badge  = HP = 200, Status = 5</p>
+                    <p>2 badges = HP = 300, Status = 5</p>
+                    <p>3 badges = HP = 350, Status = 6</p>
+                    <p>4 badges = HP = 450, Status = 6</p>
+                    <p>5 badges = HP = 500, Status = 6</p>
+                    <p>6 badges = HP = 550, Status = 7</p>
+                    <p>7 badges = HP = 600, Status = 7</p>
+                    <p>8 badges = HP = 700, Status = 7</p> 
+                </section>
+                <section>
+                    <h1>TRAINERS</h1>
+                    <p>They will have pokemon that progressively scale in power.</p>
+                    
+                    <p>Perish Song is completely removed from trainers!</p>
+                    
+                    <p>Before level 30 - all pokemon will not be fully evolved</p>
+                    
+                    <p>Before level 20 - all pokemon must be able to evolve again, and are less than 500BST.</p>
+                    
+                    <p>Between level 20 and level 29 - all pokemon will be at least 320 BST.</p>
+                    
+                    <p>After level 30 - all pokemon will be fully evolved but less than 570BST</p>
+                    
+                    <p>Before level 40 - all pokemon will not be legendary/mythic/mega/etc.</p>
+                    
+                    <p>Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items.</p>
+                </section>
+                </div>
+            </div>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">ITEMS</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>GENERAL ITEM RULES</h1>
+                    <p>All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)</p>
+                    
+                    <p>Legal items are limited to visible, hidden, and NPC gift.</p>
+                    
+                    <p>ALL step items are banned.</p>
+                    
+                    <p>No buying items in shops unless allowed from a prize. Repels only exception. NO POKEBALLS!</p>
+                    
+                    <p>No breaking and entering. You are not permitted to enter buildings not required by story / roguemon prize to pick up items.</p>
+                    
+                    <p>Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension.</p>
+                </section>
+                <section>
+                    <h1>TMs</h1>
+                    <p>All TMs have full compatibility</p>
+                    
+                    <p>Gym TMs can be taught without restriction, but you must decide to teach immediately.</p>
+                    
+                    <p>Ground TMs can only be taught if a prize roll allows you to.</p>
+                </section>
+                <section>
+                    <h1>WHEN YOU DO PICK UP AN ITEM</h1>
+                    <p>There are four types of items, each with different rules:</p>
+                    
+                    <p>Healing items - items that heal you but cannot be held (e.g. Potion, Antidote, Ether)</p>
+                    
+                    <p>Medicine - items that power up a pokemon outside of battle (e.g. Rare Candy, PP Up, Calcium)</p>
+                    
+                    <p>Consumables - items that are held and used up in battle (e.g. Oran Berry, White Herb)</p>
+                    
+                    <p>Other items - battle items (e.g. X Speed), plus non-consumable held items (e.g. Charcoal, Scope Lens)</p>
+                </section>
+                <section>
+                    <h1>HEALING ITEMS</h1>
+                    <p>You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.</p>
+                    
+                    <p>In the tracker, you need to toggle to display HP heals in bag as a whole number and not a percentage. (Settings>Gameplay>Options)</p>
+                    
+                    <p>You may use the item you just picked up, or an item you already had, as long as you end up back under the limit.</p>
+                    
+                    <p>All heals that exceed your max HP, are EQUAL to your Pokemon’s current HP.</p>
+                    
+                    <p>Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables.</p>
+                </section>
+                <section>
+                    <h1>MEDICINE ITEM</h1>
+                    <p>It must be used immediately or trashed. This includes PP Ups/Maxes, Rare Candies, and Vitamins.</p>
+                    
+                    <p>Exception: If you get one of these items before the first trainer, you may keep it until you have locked in your pokemon. If you do, it must be used or trashed immediately after deciding and before fighting the first trainer.</p>
+                </section>
+                <section>
+                    <h1>CONSUMABLES</h1>
+                    <p>When you pick up any non-PP or status consumable item, you must make an immediate decision on whether to equip (or use) it or not. If you do not equip it, you must trash it. The consumable can never go back into the bag once equipped but can be used if unequipped.</p>
+                    
+                    <p>Leppa Berries and status berries (e.g. Lum, Chesto) can be kept and treated as a regular PP/status heal.</p>
+                    
+                    <p>You may choose to equip status/pp berries; if you do, then they are treated like normal consumables.</p>
+                    
+                    <p>If the consumable replaces another consumable, the one being unequipped must be trashed/used.</p>
+                    
+                    <p>If the consumable is replacing a won held item, the held item goes into the bag and can be re-equipped.</p>
+                    
+                    <p>Held berries do not count against your HP/status bag limit, but berries in your bag do.</p>
+                </section>
+                <section>
+                    <h1>OTHER ITEMS</h1>
+                    <p>Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.</p>
+
+                    <p>Think of your bag as a temporary holding space for some possible items you can win when you get a prize.</p>
+
+                    <p>Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non banned held items OR any found battle items you pick up, with no restrictions. These items must all be trashed during the cleansing phase after completing Gym 1.</p>
+
+                    <p>Revive note: Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll. If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints. As such, your HM friend should always be with you if you have one. If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center. You are limited to ONE HM friend, and owning ONE revive item per run.</p>
+                </section>
+                </div>
+            </div>
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">Phases</h2>
+                <div class="rulesSections-content">
+                <section>
+                    <h1>Buy Phase</h1>
+                    <p>Buy Phase you may exchange your current HP heals for HP heals of EQUAL TO or LESS THAN the healing existing in your bag.</p>
+                    <p>Max Potions and Full Restores cannot be exchanged.</p>
+                    <p>You may exchange your current status heals 1 for 1.</p>
+                    <p>You may also exchange any 3 status heals for a Full Heal or vice versa.</p>
+                </section>
+                <section>
+                    <h1>Cleansing Phase</h1>
+                    <p>You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize.</p>
+                    <p>Any item you have claimed from a prize is owned, and not cleansed.</p>
+                    <br>
+                    <p>Items below are exempt from cleanse</p>
+                    <p>Repels | Pokeballs | Heals | Roguestones | Poke Dolls | Smoke Balls | Fluffy Tails</p>
+                    <p>Anything you earned from the Shop phase</p>
+                </section>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="game-progress" class="page">
+        <h1>GAME PROGRESSION</h1>
+        <div class="card">
+            <p>The game mode is meant to be linear. There is FORCED ROUTING.</p>
+            <br>
+            <p>The game is divided into segments, which comprise one or more routes/areas.</p>
+            <br>
+            <p>Unless forced to by story, you must clear a segment in one attempt without healing at a Pokemon Center.</p>
+            <br>
+            <p>You may use the Pokemon Center upon completing any segment.</p>
+            <br>
+            <p>Healing HP, Status, and PP using items is allowed outside of battle.</p>
+            <br>
+            <p>You may leave to use the PC (as long as you have defeated all mandatory trainers), but you may not return to fight the trainers for experience.</p>
+            <br>
+            <p>All items hidden and visible must be picked up before leaving a Segment, or else they are forfeited.</p>
+            <br>
+            <p>Any picked up item must be followed by an immediate decision if required.</p>
+            <br>
+            <p>Wild pokemon may not be fought for experience unless allowed by a Prize.</p>
+            <br>
+            <p>There is NO step farming allowed. This is applicable to moves like “Return”, or Friendship Evolution Pokemon. Also note: step items are disallowed in Roguemon.</p>
+        </div>
+        <h1>GYMS</h1>
+        <div class="card">
+            <p>Every trainer must be fought in the gym.</p>
+            <br>
+            <p>The Gym Leader’s ace will always be holding a sensible item.</p>
+            <br>
+            <p>Gym Leader TM must be decided to teach at time of acquisition.</p>
+            <br>
+            <p>Upon Beating the Gym, Immediately Get your TM, Badge Cap Increases, then a random Prize choice. Afterwards comes Buy Phase and Cleansing phase.</p>
+        </div>
+    </section>
+    <section id="curses" class="page">
+        <h1 id="curses">CURSES</h1>
+        <div class="card">
+            <p>Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.</p>
+        </div>
+        <img loading="lazy" src="img/curse.PNG" style="max-width: 500px; max-height: 500px; height: auto; width: auto;" alt="Example Curse Image">
+    </section>
+    <section id="prizes" class="page">
+        <h1>Prizes</h1>
+        <p>PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION</p>
+        <p>Extension found within the Roguemon Discord</p>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Lab Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Roll upon exiting the lab 3 prizes, keep 1</p>
+                    <uL>Potion + Parlyz Heal + Antidote</uL>
+                    <uL>Potion x2 + Antidote</uL>
+                    <uL>Parlyz Heal x2 + Antidote</uL>
+                    <uL>HP Cap +50</uL>
+                    <uL>Status Cap +1 + Potion + Status Choice</uL>
+                    <uL>Fight up to 5 random wilds then PC heal (cannot PC in between)</uL>
+                    <uL>Potion + fight 1st wild you see in Routes 1</uL>
+                    <uL>Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it</uL>
+                    <uL>Potion + Reroll Chip - 1 time use reroll rewards</uL>
+                    <uL>Berry Juice</uL>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Brock Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Roll After Gym 1: Brock, 3 prizes, keep 1</p>
+                    <ul>Potion x2 + Ether</ul>
+                    <ul>Burn Heal + Awakening + Antidote + Parlyz Heal</ul>
+                    <ul>Potion + Reroll Chip</ul>
+                    <ul>Potion + Ether + Status Choice</ul>
+                    <ul>Potionx2 + Any Status Heal</ul>
+                    <ul>Potion + Any Status Heal x2</ul>
+                    <ul>HP Cap +100</ul>
+                    <ul>Status Item Cap +1 + Any Status Heal + Potion</ul>
+                    <ul>Duplicator - Purchase duplicate of HP/status item found (immediate choice and must be shop avail.)</ul>
+                    <ul>Luck Incense - Hold an HP heal that exceeds your Cap until you can add it</ul>
+                    <ul>Temporary TM Voucher - Teach ground TM found before the next badge (immediate choice)</ul>
+                    <ul>Potion x3</ul>
+                    <ul>Potion Investment + Potion - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase</ul>
+                    <ul>Nature Mint - Change your pokemon’s nature to one of your choice.</ul>
+                    <ul>Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.</ul>
+                    <ul>Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.</ul>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">MT. Moon Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Mt. Moon Full Clear Prize, Roll After Mt. Moon, 3 prizes, keep 1</p>
+                    <ul>Teach one of the fighting bro’s TMs (or neither)</ul>
+                    <ul>Super Potion</ul>
+                    <ul>Elixir</ul>
+                    <ul>Rare Candy</ul>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Misty Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Roll After Gym 2: Misty, 3 prizes, keep 1</p>
+                    <ul>Super Potion x2</ul>
+                    <ul>Antidote + Parlyz Heal + Awakening + Burn Heal</ul>
+                    <ul>Potion x3 + Any Status Heal</ul>
+                    <ul>Super Potion + Any Status Heal x2</ul>
+                    <ul>Temporary Held Item - Keep and Hold an item from bag for 2 gym badges</ul>
+                    <ul>HP Cap +100</ul>
+                    <ul>Status Cap +1 + Any Status Heal + Potion</ul>
+                    <ul>Super Potion + Any Status Heal + Ether</ul>
+                    <ul>Flutist + Super Potion - you can use flutes in battle (including Poke Flute)</ul>
+                    <ul>Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision)</ul>
+                    <ul>Ground TM</ul>
+                    <ul>Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use</ul>
+                    <ul>Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase</ul>
+                    <ul>Nature Mint - Change your pokemon’s nature to one of your choice.</ul>
+                    <ul>Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.</ul>
+                    <ul>Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.</ul>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Lt. Surge Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Roll after Gym 3: Lt. Surge, 3 prizes, keep 1</p>
+                    <ul>TM Voucher - Teach 1 Ground in the future (immediate decision)</ul>
+                    <ul>Super Potion x3</ul>
+                    <ul>Super Potionx2 + Any Status Heal</ul>
+                    <ul>HP Cap +100</ul>
+                    <ul>HP Cap + 50 + Status Choice</ul>
+                    <ul>HP Cap + 50 + Super Potion</ul>
+                    <ul>Super Potion + Any Status Heal + Ether</ul>
+                    <ul>Status Cap +1 + Any Status Heal + Potion</ul>
+                    <ul>Flutist + Super Potion - you can use flutes in battle (including Poke Flute)</ul>
+                    <ul>Berry Pouch - HP Berries may be stored instead of equipped</ul>
+                    <ul>Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)</ul>
+                    <ul>Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use</ul>
+                    <ul>Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.</ul>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Erika Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Roll after Gym 4 Erika, 3 prizes, keep 1</p>
+                    <ul>1 TM from the Department Store (cannot pre-scout)</ul>
+                    <ul>Hyper Potion + Move Tutor 3F (cannot pre-scout)</ul>
+                    <ul>Hyper Potion + 1 Vitamin</ul>
+                    <ul>Full Heal x2 + Super Potion</ul>
+                    <ul>Super Potion x2 + Full Heal</ul>
+                    <ul>Any Battle item x2</ul>
+                    <ul>Move Tutor 3F, then + PP Max (cannot pre-scout)</ul>
+                    <ul>Super Potion + Any Battle item</ul>
+                    <ul>Ground Item - Keep/Use any current item in bag before cleanse</ul>
+                    <ul>HP Cap +100</ul>
+                    <ul>HP Cap +50 + XAcc</ul>
+                    <ul>HP Cap + 50 + Elixir</ul>
+                    <ul>Berry Pouch - HP Berries may be stored instead of equipped</ul>
+                    <ul>X Factor - You can now keep and use Battle Items Freely</ul>
+                    <ul>Temporary Held Item Voucher: Permanently unlock one non-revive found item before next gym (immediate decision)</ul>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Koga, Silph Co Full Clear, Sabrina, Blaine, Giovanni Prize</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>Roll after the Gyms, 3 prizes, keep 1</p>
+                    <ul>1 TM Found OR Given in bag</ul>
+                    <ul>Hyper Potion + Super Potion</ul>
+                    <ul>Hyper Potion + Full Heal</ul>
+                    <ul>Hyper Potion + Elixir</ul>
+                    <ul>Any Battle Item x2 + Super Potion</ul>
+                    <ul>Super Potion x2 + Any Battle Item</ul>
+                    <ul>Super Potion + Full Heal + Elixir</ul>
+                    <ul>Ground Item + Super Potion - Keep any “non-reviving” item in bag before cleanse</ul>
+                    <ul>Ground Item + Full Heal - Keep any “non-reviving” item in bag before cleanse</ul>
+                    <ul>Revive (limit one revive item per run)</ul>
+                    <ul>HP Cap +100 + Status Cap +1</ul>
+                    <ul>HP Cap +50 + Super Potion</ul>
+                    <ul>Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision)</ul>
+                    <ul>Fight one of Route 12/13/14/15 (treat as a segment)</ul>
+                </section>
+            </div>
+        </div>
+        <div class="rulesSections-group">
+            <h2 class="rulesSections-group-header">Victory Road Full Clear</h2>
+            <div class="rulesSections-content">
+                <section>
+                    <p>3 prizes, keep 1</p>
+                    <ul>Full Restore</ul>
+                    <ul>1 found/given TM OR relearn one move (in Celadon) + Big Mushroom</ul>
+                    <ul>HP Cap + 100 + Hyper Potion</ul>
+                    <ul>Any Battle items x2</ul>
+                    <ul>Revive (limit one revive item per run)</ul>
+                    <ul>Full Heal x2 + Elixir x2</ul>
+                    <ul>Fight one of Route 12/13/14/15 (treat as a segment)</ul>
+                </section>
+            </div>
+        </div>
+        <img loading="lazy" src="img/roguemonHP.PNG" style="max-width: 500px; max-height: 500px; height: auto; width: auto;" alt="Example Prize Image">
+    </section>
+    <section id="routing" class="page">
+        <h1>FORCED ROUTE</h1>
+        <li>NOTE THIS IS TO BE FOLLOWED DILIGENTLY AND IS SHOWN AT THE BOTTOM OF THE TRACKER VIA THE ROGUEMON EXTENSION</li>
+        <section>
+            <ol>Rival 1 in lab</ol>
+            <ol>Out of Lab (HP = 150 Status = 3) WIN = Prize Roll (Prize 1).</ol>
+            <ol>Viridian Forest</ol>
+            <ol>Rival 2 (Route 22)</ol>
+            <ol>Brock (+50HP Cap, +2 Status Cap), Trash your held item (if applicable), WIN = Prize roll (2), BUY/CLEANSING</ol>
+            <ol>Route 3</ol>
+            <ol>Mt. Moon, Full Clear = Mt. Moon Prize</ol>
+            <ol>Rival 3 (Cerulean)</ol>
+            <ol>Route 24/Route 25</ol>
+            <ol>Misty (+100HP cap), WIN = Prize Roll (Prize 3), BUY/CLEANSING</ol>
+            <ol>Dig Grunt + Route 6/Route 11</ol>
+            <ol>Rival 4 in SS Anne (4 kitchen items and basement garbage item are allowed)</ol>
+            <ol>Lt. Surge (+50HP Cap, +1 Status Cap), WIN = Prize Roll (Prize 4), BUY/CLEANSING</ol>
+            <ol>Route 9/Route 10 North</ol>
+            <ol>Rock Tunnel/Route 10 South</ol>
+            <ol>Rival 5 (Lavender), Cannot fight any other trainers in Pokemon Tower yet</ol>
+            <ol>Route 8, You may buy Moon Stone upon arriving in Celadon for -100HP cap</ol>
+            <ol>Erika (+100HP Cap), WIN = Prize Roll (Prize 5), BUY/CLEANSING</ol>
+            <ol>Game Corner, After Game Corner, you will receive a Moon Stone for free if you need one (and can purchase more at the Department Store if necessary).</ol>
+            <ol>Pokemon Tower</ol>
+            <ol>Cycling Road + Route 18 + Route 19 (Note: Route 12/13/14/15 are not allowed - they can be won from Prizes)</ol>
+            <ol>Koga (+50 HP Cap), Win = Prize Roll (Prize 6), BUY/CLEANSING</ol>
+            <ol>Safari Zone</ol>
+            <ol>Silph Co, Prize Roll (Prize 6)</ol>
+            <ol>Sabrina (+50 HP Cap, +1 Status Cap), Win = Prize Roll (Prize 6) , BUY/CLEANSING PHASE</ol>
+            <ol>Route 21/Pokemon Mansion</ol>
+            <ol>Blaine (NO CLEANSE PHASE), (+50 HP Cap), Win = Prize Roll (Prize 6), BUY PHASE</ol>
+            <ol>Giovanni, (+100 HP Cap), Win = Prize Roll (Prize 6), BUY/CLEANSING PHASE</ol>
+            <ol>Rival 7</ol>
+            <ol>Victory Road/Route 23, Prize Roll (Prize 7), BUY/CLEANSING PHASE</ol>
+            <ol>E4 + Champion</ol>
+        </section>
+        
+    </section>
+    <section id="Ascensions" class="page">
+        <h1>What are Ascensions?</h1>
+        <p>Ascensions are a mechanic of this game mode which represents the difficulty level, each increase ups the challenge. The aim is to beat the game with all Pokémon types then move up to the next ascension tier where the difficulty increases.</p>
+    
+        <h2>Ascension Details</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Feature</th>
+                    <th>Ascension One (A1)</th>
+                    <th>Ascension Two (A2)</th>
+                    <th>Ascension Three (A3)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Trainer Level Increase</td>
+                    <td>+20%</td>
+                    <td>+40%</td>
+                    <td>+50%, with held items</td>
+                </tr>
+                <tr>
+                    <td>Healing Rules</td>
+                    <td>One-time use per segment at player’s choice</td>
+                    <td>Disabled unless stated/forced</td>
+                    <td>Disabled unless stated/forced</td>
+                </tr>
+                <tr>
+                    <td>Huge/Pure Power</td>
+                    <td>Allowed</td>
+                    <td>Banned</td>
+                    <td>Banned</td>
+                </tr>
+                <tr>
+                    <td>Shell Bell Restrictions</td>
+                    <td>Allowed</td>
+                    <td>Banned if BST ≥ 500, no Shell Bell + draining moves</td>
+                    <td>Same as A2</td>
+                </tr>
+                <tr>
+                    <td>Cursed Segments</td>
+                    <td>3 random segments</td>
+                    <td>5 random segments</td>
+                    <td>5 segments + 2 gyms</td>
+                </tr>
+                <tr>
+                    <td>Compound Eyes + Sleep Move</td>
+                    <td>Allowed</td>
+                    <td>Banned</td>
+                    <td>Banned</td>
+                </tr>
+                <tr>
+                    <td>Offensive Setup + Draining Moves</td>
+                    <td>Allowed</td>
+                    <td>Not allowed together</td>
+                    <td>Same as A2 + Draining Kiss banned</td>
+                </tr>
+                <tr>
+                    <td>Rival Fight Timing</td>
+                    <td>Anytime</td>
+                    <td>Anytime</td>
+                    <td>Must be completed at end/start of segment</td>
+                </tr>
+                <tr>
+                    <td>Passive Setup Moves</td>
+                    <td>Allowed</td>
+                    <td>Allowed</td>
+                    <td>Banned (except via damaging moves or X items)</td>
+                </tr>
+                <tr>
+                    <td>Trainer Itemization</td>
+                    <td>None</td>
+                    <td>None</td>
+                    <td>Randomized sensible items</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="Setup" class="page">
+        <h1>-- Setup Page --</h1>
+        <p>The guides below use the windows install steps</p>
+        <p>Links can be found in the Discord!</p>
+        <div class="rulesSections">
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">BizHawk Guide <img loading="lazy" src="img/front/bizhawk.png" class="img" style="max-width: 100px; max-height: 100px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <p>Download the win-x64.zip</p>
+                        <img loading="lazy" src="img/Biz/BizHawkDownload.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Extract it, make sure to not install into the One Drive location</p>
+                        <img loading="lazy" src="img/Biz/BizHawkExtract.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Enter the extracted folder and open EmuHawk.exe</p>
+                        <img loading="lazy" src="img/Biz/BizFolder.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Choose your profile and click OK</p>
+                        <img loading="lazy" src="img/Biz/BizHawkSetup.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Click on Tools then Lua Console</p>
+                        <img loading="lazy" src="img/Biz/BizHawkLua.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>For easy of use you should change this setting, then you are done!</p>
+                        <img loading="lazy" src="img/Biz/BizHawkLuaSetting.png" class="img">
+                    </div>
+                </div>
+            </div>
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">Java Guide <img loading="lazy" src="img/front/Java.png" class="img" style="max-width: 75px; max-height: 75px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <a href="https://www.java.com/en/download/manual.jsp" style="color: black;">Java Download Page</a>
+                    </div>
+                    <div class="guide-card">
+                        <p>Check to make sure you don't already have Java Offline</p>
+                        <img loading="lazy" src="img/Java/JavaCMD.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Go to the website and make sure to download this version</p>
+                        <img loading="lazy" src="img/Java/JavaOffline.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Follow the install, then check with the command prompt for a successful install</p>
+                        <img loading="lazy" src="img/Java/JavaInstall.png" class="img">
+                    </div>
+                </div>
+            </div>
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">Tracker Guide <img loading="lazy" src="img/front/tracker.png" class="img" style="max-width: 100px; max-height: 100px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <p>The Tracker has it's own install guide if you prefer <a href="https://github.com/besteon/Ironmon-Tracker/wiki/Installation-Guide" style="color: black;">Found Here</a></p>
+                    </div>
+                    <div class="guide-card">
+                        <p>Download the .lua file</p>
+                        <img loading="lazy" src="img/Tracker/TrackerInstall.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Make a folder and put the lua in it, the tracker files will install into this folder</p>
+                        <img loading="lazy" src="img/Tracker/TrackerFolder.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Open BizHawk and open the .lua file you installed</p>
+                        <img loading="lazy" src="img/Tracker/TrackerInBiz.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You should see the below image, if not you might need to restart BizHawk</p>
+                        <img loading="lazy" src="img/Tracker/TrackerBizInstall.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>In the output you should see this, you can also look into the folder</p>
+                        <img loading="lazy" src="img/Tracker/LoadTracker.png" class="img">
+                        <img loading="lazy" src="img/Tracker/TrackerFullyInstalled.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Restart BizHawk, open the new .lua script you should then see this</p>
+                        <img loading="lazy" src="img/Tracker/TrackerSuccess.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Now save your session like below, name it as you like</p>
+                        <img loading="lazy" src="img/Tracker/TrackerAutoLoad.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You should change the setting so it auto loads as below</p>
+                        <img loading="lazy" src="img/Tracker/TrackerAutoSession.png" class="img">
+                    </div>
+                </div>
+            </div>
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">NatDex Guide <img loading="lazy" src="img/front/NatDex.png" class="img" style="max-width: 100px; max-height: 100px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <p>Below is where we will start, assuming you have followed the guide from the start</p>
+                        <img loading="lazy" src="img/NatDex/NatDexStart.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>We will go into the settings page</p>
+                        <img loading="lazy" src="img/NatDex/NatDex1.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Into Extensions</p>
+                        <img loading="lazy" src="img/NatDex/NatDex2.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Install New Extension</p>
+                        <img loading="lazy" src="img/NatDex/NatDex3.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Copy and paste the NatDex Github link into the box</p>
+                        <img loading="lazy" src="img/NatDex/NatDex4.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You should see this after a successful install</p>
+                        <img loading="lazy" src="img/NatDex/NatDex5.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You should also confirm in your folder</p>
+                        <img loading="lazy" src="img/NatDex/NatDex6.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You then want to locate the patch</p>
+                        <img loading="lazy" src="img/NatDex/NatDex7.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <a href="https://www.marcrobledo.com/RomPatcher.js/" style="color: purple;">Patcher Site</a>
+                        <p>You then want to go to the patcher site and fill it like so</p>
+                        <img loading="lazy" src="img/NatDex/NatDex8.png" class="img">
+                        <p>If you get an error "Source ROM checksum mismatch" go to troubleshooting.</p>
+                    </div>
+                    <div class="guide-card">
+                        <p>Save it where you like, I will name it like so</p>
+                        <img loading="lazy" src="img/NatDex/NatDex9.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Open the Rom through BizHawk and make sure the extension is on</p>
+                        <img loading="lazy" src="img/NatDex/NatDex10.png" class="img">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">RogueMon Guide <img loading="lazy" src="img/front/roguemon.png" class="img" style="max-width: 50px; max-height: 50px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <p>Like with NatDex we will install a new extension</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMonStart.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>On a successful install you should see this</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon1.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You should then turn on the tracker</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon2.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Then reboot BizHawk, check the top left and the lua console</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon3a.png" class="img">
+                        <img loading="lazy" src="img/RogueMon/RogueMon3b.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You then can proceed to go into settings and click New runs </p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon4.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Click Profiles then Add new</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon5.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>This is where you make your different profiles</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon6.png" class="img">
+                        <p>After filling it out click save.</p>
+                        <p>The <b>only</b> changes you should be making from the example are the randomizer settings and profile name</p>
+                    </div>
+                    <div class="guide-card">
+                        <p>You can create multiple profiles like below</p>
+                        <img loading="lazy" src="img/RogueMon/MultiProfiles.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>When you have selected the profile you want to use</p>
+                        <img loading="lazy" src="img/RogueMon/NewGame.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>To finish off go back to the tracker settings page and go into Gameplay</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon7.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Make sure this setting is ticked</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMon8.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Congrats RogueMon should now be setup!</p> 
+                        <p>If you click new run you should see a change in the top left</p>
+                        <img loading="lazy" src="img/RogueMon/RogueMonFinished.png" class="img">
+                    </div> 
+                </div>
+            </div>
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header">RogueMon Update <img loading="lazy" src="img/front/extensions.png" class="img" style="max-width: 100px; max-height: 100px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <p>To update RogueMon you go to the extensions page and click check for update</p>
+                        <img loading="lazy" src="img/RogueMon/Check_For_Updates.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>You should then see this screen</p>
+                        <img loading="lazy" src="img/RogueMon/Update_Screen.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>After a successful install you should see this</p>
+                        <img loading="lazy" src="img/RogueMon/Updated_Roguemon_Tracker.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <p>Congrats you have updated successfully!</p>
+                        <p>Make sure to restart after the update and then check options to see any changes</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rulesSections-group">
+                <h2 class="rulesSections-group-header" >Troubleshooting <img loading="lazy" src="img/front/Fixing.png" class="img" style="max-width: 50px; max-height: 50px;"></h2>
+                <div class="rulesSections-content grid-container">
+                    <div class="guide-card">
+                        <h1>Java</h1>
+                        <p>Issue : I cant randomize the game</p>
+                        <p>Java Offline might not be installed</p>
+                    </div>
+                    <div class="guide-card">
+                        <h1>Roguemon Setting Strings</h1>
+                        <p>The tracker will automatically put you in the Kaizo RNQS folder, make sure to navigate to the RogueMon Settings Strings</p>
+                        <img loading="lazy" src="img/Troubleshoot/Troubleshoot-RNQS1.png" class="img">
+                        <img loading="lazy" src="img/Troubleshoot/Troubleshoot-RNQS2.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <h1>NatDex</h1>
+                        <p>If you run into this error it means you are using the 1.0 ROM not 1.1 ROM</p>
+                        <img loading="lazy" src="img/Troubleshoot/Rom-Mismatch.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <h1>Tracker Extension Folder</h1>
+                        <p>In the tracker extension folder you should see both NatDex and RogueMon Folders.</p>
+                        <img loading="lazy" src="img/Troubleshoot/Tracker-Extensions-FinalFolder.png" class="img">
+                    </div>
+                    <div class="guide-card">
+                        <h1>Bizhawk</h1>
+                        <p>Issue : Bizhawk wont open</p>
+                        <p> 1. You might not have unzipped the folder Bizhawk is in.</p>
+                        <p> 2. If you are on an older system os like (Windows 7) you will need to install the pre-requisites </p>
+                    </div>
+                    <div class="guide-card">
+                        <h1>Still having issues?</h1>
+                        <p>Join the discord, there is a help-and-support channel!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <button id="backToTopBtn">Back To The Top</button>
+<!--
+    <footer>
+        <p>Site Created By TakeJoshyy</p>
+    </footer>
+-->
+    <script src="index.js"></script>
+
+    <script>
+        const theme = document.getElementById('theme');
+        const body = document.body;
+        let currentTheme = 0;
+        const themes = [
+            'white',
+            'aqua',
+            'pink'
+        ];
+
+        theme.addEventListener('click', () => {
+            currentTheme = (currentTheme + 1) % themes.length;
+            body.style.setProperty('--text-color', themes[currentTheme]);
+        });
+    </script>
+
+</body>
+</html>
+
+
+
