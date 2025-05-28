@@ -63,7 +63,7 @@
 | All lab fights will always be Lvl.6 vs Lvl.6 |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the RogueMon Tracker extension. Get the 5th from the Mart employee on Route 1. |
 | The player may NEVER click an illegal move, even in the lab UNLESS it is your only damaging move, or all other moves are at 0 PP. |
-| The player has the option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. |
+| The player has the option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. (They are tabled from Route 1,2,22 and VF. |
 
 ---
 
