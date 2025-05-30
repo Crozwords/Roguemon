@@ -93,7 +93,7 @@
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
 | Assist is banned in all ascensions. |
 | If playing in Generation 4+, No Guard + OHKO is banned. |
-| Illegal moves can NEVER be selected by the player, unless forced by game mechanic. Illegal moves must be overwritten at first opportunity. |
+| Illegal moves can NEVER be selected by the player, unless forced by lab choice or game mechanic. Illegal moves must be overwritten at first opportunity. |
 
 ---
 
