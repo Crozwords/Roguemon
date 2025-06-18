@@ -311,7 +311,10 @@ Safety Zone - If you start a fight below 75% HP, you have a 30% chance to lose a
 Live Audience - When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns.
 Moody - at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat.
 TikTok - Every fight one of your moves becomes Metronome. You don't know which one. 
-| Curse of Decay - Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat.|
+Curse of Decay - Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat.
+Poltergeist - If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item.
+Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment.
+| Time Warp - Lose 25% of your experience; gain back an equal amount at the end of the segment. This can cause you to miss level-up moves. |
 
 ---
 
