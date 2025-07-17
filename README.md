@@ -423,7 +423,7 @@ HP Cap + 50 + Super Potion
 Super Potion + Any Status Heal + Ether
 Status Cap +1 + Any Status Heal + Potion
 Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
-Berry Pouch - HP Berries may be stored instead of equipped|status berry do not count against cap
+Berry Pouch - HP Berries may be stored instead of equipped; status berry do not count against cap
 Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)
 Candy Jar - You may now save PP Up/PP Max/Rare Candy for anytime use
 Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
