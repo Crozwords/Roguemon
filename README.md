@@ -83,7 +83,7 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 | You may catch 5 pokemon if you chose to take Oak's balls, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
 | Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground. |
 | You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends. |
-| You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild, you cannot run the pokemon that gained experience. |
+| You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild with a move, you cannot run the pokemon that gained experience. |
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
 | After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run. |
 | All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1. |
@@ -95,7 +95,7 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 | **All moves and items that can heal the user's HP or status without dealing direct damage are banned-- this includes simple healing moves (Moonlight, Recover, etc.), passive effects (Ingrain, Leech Seed, Rain Dance if the user has Rain Dish), other manipulation of the user's HP (Pain Split), and status healing (Aromatherapy, Heal Bell, Refresh). Leftovers is banned on all ascensions. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (with some limitations based on Ascension level).** |
 | :--------------------: |
 | [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
-| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon or allow them to sketch you before catch. Poison Heal is allowed but you cannot deliberately get poisoned by a wild pokemon. |
+| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon or allow them to sketch you before catch. It's okay if a wild pokemon faints itself (Memento, Explosion, etc.) but you can't run a pokemon that gained experience from that if you already knew the wild pokemon had that move. |
 | Huge Power/Pure Power is banned in AS2 and AS3. |
 | Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
 | Assist is banned in all ascensions. |
