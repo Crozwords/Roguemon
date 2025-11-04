@@ -208,6 +208,7 @@ When you start a new ascension, make sure to adjust your options to the appropri
 | :--------------------: |
 | Gym TMs can be taught without restriction, but you must decide to teach immediately. |
 | Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
+| You may use a "found item" prize to keep a TM, however will require another prize to teach it. |
 
 ---
 
@@ -322,20 +323,22 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 
 > PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the RogueMon Discord)
 
-## PRIZE 1
-| **PRIZE 1 (Roll upon exiting the lab): 3 prizes, keep 1** |
-| :--------------------: | 
-| Potion + Parlyz Heal + Antidote |
-Potion x2 + Antidote
-Parlyz Heal x2 + Antidote
-HP Cap +50
-Status Cap +1 + Any Status Heal + Potion
-Fight up to 5 wilds in Viridian Forest then PC heal  (cannot PC in between)
-Potion + fight 1st wild you see in Routes 1, 2, and 22 (cannot PC in between)
-Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it
-Potion + Reroll Chip - 1 time use reroll rewards
-Berry Juice
-| Clairvoyance (A2/A3 only) - learn all future curses |
+## PRIZE 1 (Roll upon exiting the lab)
+| Image | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionparaantidote.png" width="25" height="25">  | Potion + Parlyz Heal + Antidote |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potiontwoantidote.png" width="25" height="25"> | Potion x2 + Antidote |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potiontwopara.png" width="25" height="25"> | Potion x2 + Paralyz Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +50 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal + Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-forest.png" width="25" height="25"> | Fight up to 5 wilds in Viridian Forest then PC heal - treat as segment |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandexp.png" width="25" height="25"> | Potion + fight 1st wild you see in Routes 1, 2, and 22 - treat as segment |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="30" height="25"> | Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - 1 time use reroll rewards |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berryfull.png" width="25" height="25"> | Berry Juice + Full Heal (must equip berry juice) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | Starter Pack - Learn a non-stab lower power move. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - tracker notes (stats and known ability) transfer to evolutions |
 
 ---
 
