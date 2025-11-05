@@ -452,14 +452,14 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 |:---:|---|
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tm.png" width="25" height="25"> | 1 TM from the Department Store (cannot pre-scout) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyperrelearner.png" width="25" height="25"> | Hyper Potion + Move Tutor 3F (cannot pre-scout) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-potion.png" width="25" height="25"> | Hyper Potion + White Herb |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Full Heal x2 + Super Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Super Potion x2 + Full Heal |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Any Battle Item x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Move Tutor 3F, then + PP Max (cannot pre-scout) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Super Potion + Any Battle item |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Found Item - Keep/Use any current item in bag before cleanse |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap +100 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyperwhiteherb.png" width="25" height="25"> | Hyper Potion + White Herb |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twofull-heal-super.png" width="25" height="25"> | Full Heal x2 + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twosuperandfull.png" width="25" height="25"> | Super Potion x2 + Full Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twoxitems.png" width="25" height="25"> | Any Battle Item x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppmaxtutor.png" width="25" height="25"> | Move Tutor 3F, then + PP Max (cannot pre-scout) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superandx.png" width="25" height="25"> | Super Potion + Any Battle item |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | Found Item - Permanently unlock any non-revive item currently in the bag (before cleansing) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap +50 + X Accuracy |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap + 50 + Elixir |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of equipped; status berries do not count against cap |
