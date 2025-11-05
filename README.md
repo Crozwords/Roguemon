@@ -492,23 +492,31 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) - items saved until next cleanse |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50tutor.png" width="25" height="25"> | HP Cap +50 + Move Tutor - may use move tutor in current city (Not on Silph Co; on Sabrina, comes with Poke Doll) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +150 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/secret-dex.png" width="25" height="25"> | Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | X Factor - You can now keep and use Battle Items freely |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/secretdexsuper.png" width="25" height="25"> | Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/XFACTOR.png" width="25" height="25"> | X Factor - You can now keep and use Battle Items freely (Koga/Silph Co. ONLY) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Spidey Sense: Learn if enemies have Counter, Mirror Coat, or Destiny Bond |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/pocket-sand.png" width="25" height="25"> | Pocket Sand - Once per segment, may reduce enemy's accuracy to -6 (includes Ether/Max Ether on Sabrina/Blaine) (Prize not on Giovanni) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-training.png" width="25" height="25"> | Hyper Training - Increase the IV in one stat by +10. If Hyper Train again, max an IV. If Hyper Train 3rd time, max all IVs |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
+
 
 ---
 
-## PRIZE 7
-| **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
-| :--------------------: | 
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Full Restore |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Max Potion + Full Heal |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | HP Cap +100 + Hyper Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Any Battle Item x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Revive (limit one revive item per run) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Full Heal x2 + Elixir x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
+## PRIZE 7 (Roll after Victory Road if Full Clear) 
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/full-restore.png" width="25" height="25"> | Full Restore |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/maxandfull.png" width="25" height="25"> | Max Potion + Full Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp100hyper.png" width="25" height="25"> | HP Cap +100 + Hyper Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twoxitems.png" width="25" height="25"> | Any Battle Item x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/revive.png" width="25" height="25"> | Revive/Max Revive (limit one revive item per run) Keep your HM friend with you; send it out and revive if you faint |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twofulltwoelixir.png" width="25" height="25"> | Full Heal x2 + Elixir x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tera-orb.png" width="25" height="25"> | Tera Orb - Choose a type matching a move; 5 times, you may change to that type |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
 ---
 
