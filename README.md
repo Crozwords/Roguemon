@@ -324,7 +324,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 > PLEASE NOTE THESE ARE HANDLED FULLY IN THE TRACKER VIA ROGUEMON EXTENSION (found within the RogueMon Discord)
 
 ## PRIZE 1 (Roll upon exiting the lab)
-| Image | Prize |
+|  | Prize |
 |:---:|---|
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionparaantidote.png" width="25" height="25">  | Potion + Parlyz Heal + Antidote |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potiontwoantidote.png" width="25" height="25"> | Potion x2 + Antidote |
@@ -336,109 +336,112 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="30" height="25"> | Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - 1 time use reroll rewards |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berryfull.png" width="25" height="25"> | Berry Juice + Full Heal (must equip berry juice) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | Starter Pack - Learn a non-stab lower power move. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - tracker notes (stats and known ability) transfer to evolutions |
 
 ---
 
-## PRIZE 2
-| **PRIZE 2 (Roll After Gym 1: Brock,  3 prizes, keep 1** |
-| :--------------------: | 
-| Potion x2 + Ether |
-Full Heal + Any Status Heal
-Potion + Reroll Chip
-Potion + Ether + Status Choice
-Potionx2 + Any Status Heal
-Potion + Any Status Heal x2
-HP Cap +100
-Status Item Cap +1 + Any Status Heal + Potion
-Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice)
-Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
-Temporary TM Voucher - Teach ground TM found before the next badge (immediate choice)
-Potion x3
-Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase
-Nature Mint - Change your pokemon’s nature to one of your choice.
-HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
-PP Up + Potion
-Any Vitamin x2 + Potion
-Any Vitamin + Potion x2
-PP Up + Ether
-Choose 2 - Choose 2 prizes from the Misty prize roll.
-Potion + Clairvoyance (A2/A3 only) - learn all future curses
-| Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
+## PRIZE 2 (Roll After Gym 1: Brock)
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twopotionether.png" width="25" height="25"> | Potion x2 + Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/allfourstatus.png" width="25" height="25"> | Full Heal + Any Status Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionstatusether.png" width="25" height="25"> | Potion + Ether + Status Choice |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twopotionandchoice.png" width="25" height="25"> | Potionx2 + Any Status Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potiontwochoice.png" width="25" height="25"> | Potion + Any Status Heal x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Item Cap +1 + Any Status Heal + Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/duplicator.png" width="25" height="25"> | Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="25" height="25"> | Luck Incense - Hold an HP heal on your main mon that exceeds your HP Cap until you can add it to your bag |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/bluevoucher.png" width="25" height="25"> | Temporary TM Voucher - Teach ground TM found BEFORE Misty (immediate choice). Expires after. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threepotion.png" width="25" height="25"> | Potion x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/diamond.png" width="25" height="25"> | Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase. Max pot after VR. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/mint.png" width="25" height="25"> | Nature Mint - Change your pokemon’s nature to one of your choice. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50capsule.png" width="25" height="25"> | HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppuppotion.png" width="25" height="25"> | PP Up + Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2vitpot.png" width="25" height="25"> | Any Vitamin x2 + Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2potvit.png" width="25" height="25"> | Any Vitamin + Potion x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppupether.png" width="25" height="25"> | PP Up + Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/choose-2.png" width="25" height="25"> | Choose 2 - Choose 2 prizes from the Misty's prize roll. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Potion + Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/remodeler.png" width="25" height="25"> | Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Midas Touch - If you trash a non-consumable HP heal, gain 30% of its value as HP cap. |
 
 ---
 
-## MT. MOON PRIZE
-| **Mt. Moon Full Clear Prize (Roll After Mt. Moon),  3 prizes, keep 1** |
-| :--------------------: | 
-| Teach one of the fighting bros' tutor moves (or neither) |
-Super Potion
-Elixir
-Rare Candy
-| +25 HP Cap|
+## MT. MOON PRIZE (Roll if Full Clear, beating all trainers)
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmtwo.png" width="25" height="25"> | Teach one of the fighting bros' tutor moves (or neither) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/super-potion.png" width="25" height="25"> | Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/elixir.png" width="25" height="25"> | Elixir |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/Rare Candy.png" width="25" height="25"> | Rare Candy |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | +25 HP Cap |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/rerollchip.png" width="25" height="25"> | Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
 
 ---
 
-## PRIZE 3
-| **PRIZE 3 (Roll After Gym 2: Misty) 3 prizes, keep 1** |
-| :--------------------: | 
-| Super Potion x2 |
-Full Heal + Any Status Heal
-Potion x3 + Any Status Heal
-Super Potion + Any Status Heal x2
-Temporary Held Item - Keep and Hold an item from bag for 2 gym badges
-HP Cap +100
-Status Cap +1 + Any Status Heal  + Potion
-Super Potion + Any Status Heal + Ether
-Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
-Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision)
-1 TM Found OR Given in bag 
-Candy Jar - You may now save PPup/PPmax/Rare Candy for anytime use
-Potion Investment - Store potion in PC. Doubles value every badge. Withdraw a single healing item up to it’s value in Buy Phase
-Nature Mint - Change your pokemon’s nature to one of your choice.
-HP Cap +50 & Ability Capsule - Change your pokemon’s ability to its other slot. You get to see the other ability before choosing this option.
-Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. 
-Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice)
-Luck Incense - Hold an HP heal that exceeds your Cap until you can add it
-Potion + Reroll Chip - 1 time use reroll rewards
-PP Up + Max Ether
-Any Vitamin x2 + Super Potion
-Any Vitamin x3
-Potion + Clairvoyance (A2/A3 only) - learn all future curses
-Ancestral Gift - choose and unlock a type-boosting item matching one of your moves
-Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type.
-| Special Insight - Learn every enemy pokemon's ability |
+## PRIZE 3 (Roll After Gym 2: Misty)
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twosupers.png" width="25" height="25"> | Super Potion x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/allfourstatus.png" width="25" height="25"> | Full Heal + Any Status Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threepotionandchoice.png" width="25" height="25"> | Potion x3 + Any Status Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superandchoice.png" width="25" height="25"> | Super Potion + Any Status Heal x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | Temporary Held Item - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal  + Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superstatusether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in battle (including Poke Flute) Don't cleanse flutes. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision). Prize expires after Surge. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tm.png" width="25" height="25"> | 1 TM Found OR Given in bag |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PPup/PPmax/Rare Candy/Herbs for anytime use |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/diamond.png" width="25" height="25"> | Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase. Max pot after VR.  |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/mint.png" width="25" height="25"> | Nature Mint - Change your pokemon’s nature to one of your choice. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50capsule.png" width="25" height="25"> | HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/duplicator.png" width="25" height="25"> | Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="25" height="25"> | Luck Incense - Hold an HP heal that exceeds your Cap until you can add it |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - Use to reroll for 3 new prizes when offered (1 time). |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppupmaxether.png" width="25" height="25"> | PP Up + Max Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2vitsuper.png" width="25" height="25"> | Any Vitamin x2 + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Potion + Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/remodeler.png" width="25" height="25"> | Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/special-insight.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability if their BST is higher than yours. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Midas Touch - If you trash a non-consumable HP heal, gain 30% of its value as HP cap. |
 
 ---
 
-## PRIZE 4
-| **PRIZE 4 (Roll after Gym 3: Lt. Surge) 3 prizes, keep 1** |
-| :--------------------: | 
-| TM Voucher - Teach 1 Ground in the future (immediate decision) |
-Super Potion x3
-Super Potionx2 + Any Status Heal 
-HP Cap +100
-HP Cap + 50 + Any Status Heal
-HP Cap + 50 + Super Potion
-Super Potion + Any Status Heal + Ether
-Status Cap +1 + Any Status Heal + Potion
-Flutist + Super Potion - you can use flutes in battle (including Poke Flute)
-Berry Pouch - HP Berries may be stored instead of equipped; status berry do not count against cap
-Temporary Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision)
-Candy Jar - You may now save PP Up/PP Max/Rare Candy for anytime use
-Warding Charm (A2/A3 only) - Remove the effect of one curse in the future.
-X Speed + Super Potion
-X Defend + Super Potion x2
-Guard Spec. + Dire Hit + Ether
-HP Cap +50 & Rare Candy
-Any Vitamin x3
-Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately
-Ancestral Gift - choose and unlock a type-boosting item matching one of your moves
-Regenerator - regain 3% of your max HP after every fight
-| Special Insight - Learn every enemy pokemon's ability |
+## PRIZE 4 (Roll after Gym 3: Lt. Surge)
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmvoucher.png" width="25" height="25"> | TM Voucher - Teach 1 Ground in the future (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threesuper.png" width="25" height="25"> | Super Potion x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twosuperandchoice.png" width="25" height="25"> | Super Potionx2 + Any Status Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/capandchoice.png" width="25" height="25"> | HP Cap + 50 + Any Status Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/capandsuper.png" width="25" height="25"> | HP Cap + 50 + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superchoiceether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal + Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in battle (including Poke Flute) Don't cleanse flutes |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berry-pouch.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of equipped; status berry do not count against cap |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Item Voucher - Permanently unlock one non-revive found item before Erika's Gym (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PP Up/PP Max/Rare Candy/Herbs for anytime use |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/xspesuper.png" width="25" height="25"> | X Speed + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/xdef2super.png" width="25" height="25"> | X Defend + Super Potion x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Guard Spec. + Dire Hit + Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | HP Cap +50 & Rare Candy |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
