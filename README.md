@@ -445,7 +445,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/smugglers-pouch.png" width="25" height="25"> | Smugglers Pouch - May choose one item not to cleanse each Cleansing Phase |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/rerollpack.png" width="25" height="25"> | **Coming Soon** Reroll Pack - Gain 3 reroll chips - Use to reroll for 3 new prizes when offered. (1 time per chip) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/boost.png" width="25" height="25"> | **Coming Soon** Not named: Choose 1: Gain +10 ACC or +10 PWR to one move |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/boost.png" width="25" height="25"> | **Coming Soon** Booster Shot - Choose 1: Gain +10 ACC or +10 PWR to one move |
 
 ---
 
@@ -472,7 +472,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/coolerbag.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/special-insight.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability of enemy pokemon higher BST than yours |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Spidey Sense: Learn if enemies have Counter, Mirror Coat, or Destiny Bond |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/boost.png" width="25" height="25"> | **Coming Soon** Not named: Choose 1: Gain +10 ACC or +10 PWR to one move |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/boost.png" width="25" height="25"> | **Coming Soon** Booster Shot - Choose 1: Gain +10 ACC or +10 PWR to one move |
 
 ---
 
