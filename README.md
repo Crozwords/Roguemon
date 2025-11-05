@@ -460,15 +460,16 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superandx.png" width="25" height="25"> | Super Potion + Any Battle item |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | Found Item - Permanently unlock any non-revive item currently in the bag (before cleansing) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap +50 + X Accuracy |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap + 50 + Elixir |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of equipped; status berries do not count against cap |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Temporary Held Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | TM Voucher - Teach 1 Ground in the future (immediate decision) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Rare Candy x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hpcapreroll.png" width="25" height="25"> | HP Cap +50 + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocketandelixir.png" width="25" height="25"> | HP Cap + 50 + Elixir |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berry-pouch.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of force-equipped; status berries do not count against cap. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Held Item Voucher - Permanently unlock one non-revive found item before Koga (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmvoucher.png" width="25" height="25"> | TM Voucher - Teach 1 Ground in the future (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2candy.png" width="25" height="25"> | Rare Candy x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/leftovers.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/coolerbag.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/special-insight.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability of enemy pokemon higher BST than yours |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Spidey Sense: Learn if enemies have Counter, Mirror Coat, or Destiny Bond |
 
 ---
 
