@@ -334,7 +334,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-forest.png" width="25" height="25"> | Fight up to 5 wilds in Viridian Forest then PC heal - treat as segment |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandexp.png" width="25" height="25"> | Potion + fight 1st wild you see in Routes 1, 2, and 22 - treat as segment |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="30" height="25"> | Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - 1 time use reroll rewards |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berryfull.png" width="25" height="25"> | Berry Juice + Full Heal (must equip berry juice) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | Starter Pack - Learn a non-stab lower power move. |
@@ -434,39 +434,41 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PP Up/PP Max/Rare Candy/Herbs for anytime use |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/xspesuper.png" width="25" height="25"> | X Speed + Super Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/xdef2super.png" width="25" height="25"> | X Defend + Super Potion x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Guard Spec. + Dire Hit + Ether |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | HP Cap +50 & Rare Candy |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Any Vitamin x3 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/midas-touch.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2superreroll.png" width="25" height="25"> | Super Potion x2 + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/direguardether.png" width="25" height="25"> | Guard Spec. + Dire Hit + Ether |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50candy.png" width="25" height="25"> | HP Cap +50 & Rare Candy |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/coolerbag.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/leftovers.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/special-insight.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability of BST higher than yours |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/smugglers-pouch.png" width="25" height="25"> | Smugglers Pouch - May choose one item not to cleanse each Cleansing Phase |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch |
 
 ---
 
-## PRIZE 5
-| **PRIZE 5 (Roll after Gym 4 Erika) 3 prizes, keep 1** |
-| :--------------------: | 
-| 1 TM from the Department Store (cannot pre-scout) |
-Hyper Potion + Move Tutor 3F (cannot pre-scout)
-Hyper Potion + Any Vitamin
-Full Heal x2 + Super Potion
-Super Potion x2 + Full Heal
-Any Battle Item x2
-Move Tutor 3F, then + PP Max (cannot pre-scout)
-Super Potion + Any Battle item
-Found Item - Keep/Use any current item in bag before cleanse
-HP Cap +100
-HP Cap +50 + X Accuracy
-HP Cap + 50 + Elixir
-Berry Pouch - HP Berries may be stored instead of equipped; status berries do not count against cap
-Temporary Held Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision) 
-TM Voucher - Teach 1 Ground in the future (immediate decision)
-Rare Candy x2
-Regenerator - regain 3% of your max HP after every fight
-Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately
-| Special Insight - Learn every enemy pokemon's ability |
+## PRIZE 5 (Roll after Gym 4: Erika)
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tm.png" width="25" height="25"> | 1 TM from the Department Store (cannot pre-scout) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyperrelearner.png" width="25" height="25"> | Hyper Potion + Move Tutor 3F (cannot pre-scout) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-potion.png" width="25" height="25"> | Hyper Potion + White Herb |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Full Heal x2 + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Super Potion x2 + Full Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Any Battle Item x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Move Tutor 3F, then + PP Max (cannot pre-scout) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Super Potion + Any Battle item |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Found Item - Keep/Use any current item in bag before cleanse |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap +100 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap +50 + X Accuracy |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | HP Cap + 50 + Elixir |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of equipped; status berries do not count against cap |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Temporary Held Item Voucher - Permanently unlock one non-revive found item before next gym (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | TM Voucher - Teach 1 Ground in the future (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Rare Candy x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Special Insight - Learn every enemy pokemon's ability |
 
 ---
 
