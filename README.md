@@ -498,7 +498,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/pocket-sand.png" width="25" height="25"> | Pocket Sand - Once per segment, may reduce enemy's accuracy to -6 (includes Ether/Max Ether on Sabrina/Blaine) (Prize not on Giovanni) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-training.png" width="25" height="25"> | Hyper Training - Increase the IV in one stat by +10. If Hyper Train again, max an IV. If Hyper Train 3rd time, max all IVs |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
 
 ---
@@ -516,7 +516,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tera-orb.png" width="25" height="25"> | Tera Orb - Choose a type matching a move; 5 times, you may change to that type |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
 ---
 
