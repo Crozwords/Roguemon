@@ -473,42 +473,42 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 
 ---
 
-## PRIZE 6
-| **Prize 6 (Roll after Gym 5 Koga, after Silph Co (If Full Clear)., after Gym 6 Sabrina, after Gym 7 Blaine, after Gym 8 Giovanni)  3 prizes, keep 1** |
-| :--------------------: | 
-| 1 TM Found OR Given in bag |
-Hyper Potion + Super Potion
-Hyper Potion + Full Heal
-Hyper Potion + Elixir
-Any Battle Item x2 + Super Potion
-Super Potion x2 + Any Battle Item
-Super Potion + Full Heal + Elixir
-Found Item + Super Potion - Keep any “non-reviving” item in bag before cleanse
-Found Item + Full Heal - Keep any “non-reviving” item in bag before cleanse
-Revive (limit one revive item per run) (Silph Co & Giovanni ONLY)
-HP Cap +100 + Status Cap +1
-HP Cap +50 + Super Potion
-Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision)
-Fight Route 12/13 or Route 14/15 (treat as a single segment) 
-HP Cap +50 + Move Tutor - may use move tutor in current city (Not on Silph Co; on Sabrina, comes with Poke Doll)
-HP Cap +150
-Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =)
-| X Factor - You can now keep and use Battle Items freely |
+## PRIZE 6 (Roll after Gym 5 Koga, after Silph Co (If Full Clear)., after Gym 6 Sabrina, after Gym 7 Blaine, after Gym 8 Giovanni)
+|  | Prize |
+|:---:|---|
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tm.png" width="25" height="25"> | 1 TM Found OR Given in bag |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyperandsuper.png" width="25" height="25"> | Hyper Potion + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyperandfull.png" width="25" height="25"> | Hyper Potion + Full Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyperandelixir.png" width="25" height="25"> | Hyper Potion + Elixir |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twoXsuper.png" width="25" height="25"> | Any Battle Item x2 + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twosupersandx.png" width="25" height="25"> | Super Potion x2 + Any Battle Item |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superfullelixir.png" width="25" height="25"> | Super Potion + Full Heal + Elixir |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditemandsuper.png" width="25" height="25"> | Found Item + Super Potion - Permanently unlock any non-revive item currently in the bag (before cleansing) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem-fullheal.png" width="25" height="25"> | Found Item + Full Heal - Permanently unlock any non-revive item currently in the bag (before cleansing) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/revive.png" width="25" height="25"> | Revive - limit one revive item per run - Can be upgraded to Max Revive (Silph Co, Giovanni, VR ONLY) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket-statuscap.png" width="25" height="25"> | HP Cap +100 + Status Cap +1 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket-super.png" width="25" height="25"> | HP Cap +50 + Super Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/voucher.png" width="25" height="25"> | Permanent Held Item Voucher - Permanently unlock one non-revive found item found in the future (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) - items saved until next cleanse |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50tutor.png" width="25" height="25"> | HP Cap +50 + Move Tutor - may use move tutor in current city (Not on Silph Co; on Sabrina, comes with Poke Doll) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +150 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/secret-dex.png" width="25" height="25"> | Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | X Factor - You can now keep and use Battle Items freely |
 
 ---
 
 ## PRIZE 7
 | **PRIZE 7 (Roll after Victory Road if Full Clear) 3 prizes, keep 1** |
 | :--------------------: | 
-| Full Restore |
-Max Potion + Full Heal
-Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes)
-HP Cap +100 + Hyper Potion
-Any Battle Item x2
-Revive (limit one revive item per run)
-Full Heal x2 + Elixir x2
-Fight Route 12/13 or Route 14/15 (treat as a single segment)
-| Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Full Restore |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Max Potion + Full Heal |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | HP Cap +100 + Hyper Potion |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Any Battle Item x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Revive (limit one revive item per run) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Full Heal x2 + Elixir x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 
 ---
 
