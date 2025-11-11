@@ -497,10 +497,10 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +150 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/secretdexsuper.png" width="25" height="25"> | Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/XFACTOR.png" width="25" height="25"> | X Factor - You can now keep and use Battle Items freely (Koga/Silph Co. ONLY) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Spidey Sense: Learn if enemies have Counter, Mirror Coat, or Destiny Bond |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Spidey Sense: Learn if enemies have Counter, Mirror Coat, or Destiny Bond (Koga, Silph Co. Sabrina Only) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/pocket-sand.png" width="25" height="25"> | Pocket Sand - Once per segment, may reduce enemy's accuracy to -6 (includes Ether/Max Ether on Sabrina/Blaine) (Prize not on Giovanni) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-training.png" width="25" height="25"> | Hyper Training - Increase the IV in one stat by +10. If Hyper Train again, max an IV. If Hyper Train 3rd time, max all IVs |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch (Koga Only) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | **Coming Soon** Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
 
