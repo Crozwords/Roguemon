@@ -316,6 +316,17 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 |Poltergeist| If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item. |
 |Debilitation| Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment. |
 |Time Warp| Lose 25% of your experience; gain back an equal amount at the end of the segment. This can cause you to miss level-up moves. |
+|TikTok| One move per fight is secretly Metronome. You don't know which one. |
+|Bloodborne| When you use an HP heal, lose 20% of its value from your cap. |
+|Freefall| Gain +1 Speed per turn, Once at +6 Speed, take 1/8 of your max HP as damage each turn. |
+|Backseating| Each turn "chat" suggests a move. If the player does not click it, will get -1 in a random stat. |
+|Malware| Each fight, Get a -1 in your attacking stat corresponding to to the lead Pokemon's lower Defense stat.  |
+|Conversion| Every enemy pokemon becomes the typing of their highest power attacking move. |
+|Perfectly Balanced| Your BST is redistributed evenly for this segment. |
+|Slot Machine| After every battle, your HP is randomly set to 25%, 50%, 75% or 100%. |
+|David vs. Goliath| 3 random enemy pokemon in the segment have 2.5x their usual HP. |
+|Distorted Heart| Your moves' types are randomized each battle. |
+|Distorted Soul| Your moves' powers are randomized each fight between 30 and 90. |
 |Unleash the Beast| If this segment is not full cleared, all future Shedinja's turn into Eternamax Eternatus. |
 
 ---
