@@ -285,37 +285,38 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 ## CURSES
 
 | **Curses are a feature, in a state of continuous development. Segments will be randomly chosen at the beginning of the run to be cursed. You will be able to see which segments are cursed, but not know the specific curse until you start the segment. These curses will have a temporary negative effect that applies during the segment, although some may have permanent consequences.** |
-| :--------------------: |
-| Current curses: |
-Forgetfulness - After the first fight in this segment, your bottom-most move is changed to a random move. (You may still switch around your move order at any time.)
-Claustrophobia - If this segment is not full cleared, permanently lose 50 HP Cap.
-Downsizing - If this segment is not full cleared, prize spins permanently have 1 fewer option.
-Tormented Soul - You have the Torment effect (you cannot use the same move twice in a row).
-Kaizo Curse - You may not use healing items from your bag outside of battle.
-Headwind - Start each battle at -2 Speed.
-Sharp Rocks - All enemy pokemon get the Focus Energy effect (+2 critical hit rate).
-High Pressure - Lose 50% PP on all moves at the start of the segment.
-Heavy Fog - All combatants have -1 Accuracy (and it cannot be increased above -1).
-Unstable Ground - Automatically flinch on the first turn of each battle.
-1000 Cuts - Permanently lose 5 HP Cap each time you are hit by a damaging move.
-Acid Rain - Each battle starts with a random weather condition. The curse description in the carousel will tell you the selected weather.
-Toxic Fumes - Take 1 damage for every 8 steps walked. This cannot cause you to faint.
-Narcolepsy - Your pokemon has a 30% chance to fall asleep after each fight.
-Clean Air - Enemy trainers have infinite Safeguard (protected from status conditions) and Mist (protected from stat drops).
-Clouded Instincts - Your first move in each battle must be your first move slot. (You may still switch around your move order at any time.)
-Unruly Spirit - Each turn, your pokemon has a 10% chance to flinch.
-Chameleon - Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types, you cannot get a type that gives STAB on any of your moves). You can see your current typing in the tracker.
-No Cover - Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.)
-Relay Race - When you knock out an enemy pokemon, the next one comes out with the same stat stages. All enemy pokemon also get +1 Speed in addition to that.
-Resourceful - When a move reaches 0 PP, it is randomly changed to a different move.
-Safety Zone - If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag.
-Live Audience - When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns.
-Moody - at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat.
-TikTok - Every fight one of your moves becomes Metronome. You don't know which one. 
-Curse of Decay - Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat.
-Poltergeist - If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item.
-Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment.
-| Time Warp - Lose 25% of your experience; gain back an equal amount at the end of the segment. This can cause you to miss level-up moves. |
+| Curse Name | Description |
+|:---:|---|
+|Forgetfulness| After the first fight in this segment, your bottom-most move is changed to a random move. (You may still switch around your move order at any time.) |
+|Claustrophobia| If this segment is not full cleared, permanently lose 50 HP Cap. |
+|Downsizing| If this segment is not full cleared, prize spins permanently have 1 fewer option. |
+|Tormented Soul| You have the Torment effect (you cannot use the same move twice in a row). |
+|Kaizo Curse| You may not use healing items from your bag outside of battle. |
+|Headwind| Start each battle at -2 Speed. |
+|Sharp Rocks| All enemy pokemon get the Focus Energy effect (+2 critical hit rate). |
+|High Pressure| Lose 50% PP on all moves at the start of the segment. |
+|Heavy Fog| All combatants have -1 Accuracy (and it cannot be increased above -1). |
+|Unstable Ground| Automatically flinch on the first turn of each battle. |
+|1000 Cuts| Permanently lose 5 HP Cap each time you are hit by a damaging move. |
+|Acid Rain| Each battle starts with a random weather condition. The curse description in the carousel will tell you the selected weather. |
+|Toxic Fumes| Take 1 damage for every 8 steps walked. This cannot cause you to faint. |
+|Narcolepsy| Your pokemon has a 30% chance to fall asleep after each fight. |
+|Clean Air| Enemy trainers have infinite Safeguard (protected from status conditions) and Mist (protected from stat drops). |
+|Clouded Instincts| Your first move in each battle must be your first move slot. (You may still switch around your move order at any time.) |
+|Unruly Spirit| Each turn, your pokemon has a 10% chance to flinch. |
+|Chameleon| Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types, you cannot get a type that gives STAB on any of your moves). You can see your current typing in the tracker. |
+|No Cover| Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.) |
+|Relay Race| When you knock out an enemy pokemon, the next one comes out with the same stat stages. All enemy pokemon also get +1 Speed in addition to that. |
+|Resourceful| When a move reaches 0 PP, it is randomly changed to a different move. |
+|Safety Zone| If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag. |
+|Live Audience| When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns. |
+|Moody| at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat. |
+|TikTok| Every fight one of your moves becomes Metronome. You don't know which one. |
+|Curse of Decay| Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat. |
+|Poltergeist| If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item. |
+|Debilitation| Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment. |
+|Time Warp| Lose 25% of your experience; gain back an equal amount at the end of the segment. This can cause you to miss level-up moves. |
+|Unleash the Beast| If this segment is not full cleared, all future Shedinja's turn into Eternamax Eternatus. |
 
 ---
 
@@ -331,8 +332,8 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potiontwopara.png" width="25" height="25"> | Potion x2 + Paralyz Heal |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +50 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal + Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-forest.png" width="25" height="25"> | Fight up to 5 wilds in Viridian Forest then PC heal - treat as segment |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandexp.png" width="25" height="25"> | Potion + fight 1st wild you see in Routes 1, 2, and 22 - treat as segment |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-forest.png" width="25" height="25"> | Fight *up to* 5 wilds in Viridian Forest- treat as segment (can PC heal after) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandexp.png" width="25" height="25"> | Potion + fight 1st wild you see in Routes 1, 2, and 22 - treat as segment (can PC heal after) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="30" height="25"> | Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berryfull.png" width="25" height="25"> | Berry Juice + Full Heal (must equip berry juice) |
@@ -395,7 +396,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal  + Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superstatusether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in battle (including Poke Flute) Don't cleanse flutes. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in/outside battle (including Poke Flute) Don't cleanse flutes. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision). Prize expires after Surge. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tm.png" width="25" height="25"> | 1 TM Found OR Given in bag |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PPup/PPmax/Rare Candy/Herbs for anytime use |
@@ -420,7 +421,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 ## PRIZE 4 (Roll after Gym 3: Lt. Surge)
 |  | Prize |
 |:---:|---|
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmvoucher.png" width="25" height="25"> | TM Voucher - Teach 1 Ground in the future (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmvoucher.png" width="25" height="25"> | TM Voucher - Teach 1 Ground TM in the future (immediate decision) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threesuper.png" width="25" height="25"> | Super Potion x3 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twosuperandchoice.png" width="25" height="25"> | Super Potionx2 + Any Status Heal |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
@@ -428,7 +429,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/capandsuper.png" width="25" height="25"> | HP Cap + 50 + Super Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superchoiceether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal + Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in battle (including Poke Flute) Don't cleanse flutes |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in/outside battle (including Poke Flute) Don't cleanse flutes |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berry-pouch.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of equipped; status berry do not count against cap |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Item Voucher - Permanently unlock one non-revive found item before Erika's Gym (immediate decision) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PP Up/PP Max/Rare Candy/Herbs for anytime use |
@@ -466,7 +467,7 @@ Debilitation - Your Attack and Sp.Atk IVs are set to 0 for the duration of the s
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocketandelixir.png" width="25" height="25"> | HP Cap + 50 + Elixir |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berry-pouch.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of force-equipped; status berries do not count against cap. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Held Item Voucher - Permanently unlock one non-revive found item before Koga (immediate decision) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmvoucher.png" width="25" height="25"> | TM Voucher - Teach 1 Ground in the future (immediate decision) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmvoucher.png" width="25" height="25"> | TM Voucher - Teach 1 Ground TM in the future (immediate decision) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2candy.png" width="25" height="25"> | Rare Candy x2 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/leftovers.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/coolerbag.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
