@@ -227,7 +227,7 @@ When you start a new ascension, make sure to adjust your options to the appropri
 > Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll.
 If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints.
 As such, your HM friend should always be with you if you have one.
-If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center. You cannot benefit from your HM friend's item, or pickup if it has it. But Stat dropping abilities are fine.
+If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center. You cannot benefit from your HM friend's item, or pickup if it has it. Other impactful abilities are fine.
 You are limited to ONE HM friend, and owning ONE revive item per run.
 
 ---
