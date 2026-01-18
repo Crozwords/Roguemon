@@ -21,9 +21,9 @@
 ---
 
 ## ROGUELIKES
-| **Often have difficult choices and a “linear” element.** | 
+| **Roguemon offers difficult choices and a “linear” element.** | 
 | :--------------------: |
-| The goal is to go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
+| You will go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
 | There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
 | There will also be ‘ascensions’ or difficulty levels to progress through. |
@@ -316,7 +316,6 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 |Poltergeist| If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item. |
 |Debilitation| Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment. |
 |Time Warp| Lose 25% of your experience; gain back an equal amount at the end of the segment. This can cause you to miss level-up moves. |
-|TikTok| One move per fight is secretly Metronome. You don't know which one. |
 |Bloodborne| When you use an HP heal, lose 20% of its value from your cap. |
 |Freefall| Gain +1 Speed per turn, Once at +6 Speed, take 1/8 of your max HP as damage each turn. |
 |Backseating| Each turn "chat" suggests a move. If the player does not click it, will get -1 in a random stat. |
