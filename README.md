@@ -20,13 +20,13 @@
 
 ---
 
-## ROGUELIKES
+## Game Elements
 | **Roguemon offers difficult choices and a “linear” element.** | 
 | :--------------------: |
-| You will go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
+| You will go straight through the game and as you do, you get offered random sets of Prizes for achieving milestones. |
 | There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
-| There are ‘ascensions’ or difficulty levels to progress through. |
+| There are ‘ascensions’ or difficulty levels to progress through. (Currently Three Ascensions, A1-A3) |
 <img src="https://github.com/user-attachments/assets/c4dbf1ae-adb3-4891-96a0-0f0dd4240434" width="280" height="300">
 <img src="https://github.com/user-attachments/assets/21a5c3cb-dc72-4051-9725-60fcfa1e4b7c" width="280" height="300">
 
