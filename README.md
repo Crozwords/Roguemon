@@ -4,7 +4,7 @@
 
 ---
 
-# <h1 align="center">CREDITS AND USEFUL LINKS</h1>
+# <h1 align="center">Creator and Useful Links</h1>
 
 | **RogueMon was created by [Crozwords](https://www.twitch.tv/crozwords)** |
 | :--------------------: |
@@ -16,7 +16,7 @@
 # <h1 align="center">What is RogueMon?</h1>
 | **RogueMon makes FRLG into a full Randomized Pokemon Roguelike** | 
 | :--------------------: |
-|The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord listed above.|
+|It is a single pokemon randomized challenge. The goal is to win by locking every pokemon type and finishing a run without fainting. on your journey, you'll receive prizes to help you on your way. Curses will hinder your path. All resources to get set up available in the discord.|
 
 ---
 
@@ -26,20 +26,9 @@
 | You will go straight through the game and as you do, you get offered random sets of items for achieving milestones. |
 | There are randomly 'cursed' sections of the game which offer fun and interesting challenges to overcome. |
 | There are ‘buy’ phases and ‘cleansing’ phases (described in rules) where you can exchange current items to upgrade them and/or win items to use on your quest for victory. |
-| There will also be ‘ascensions’ or difficulty levels to progress through. |
+| There are ‘ascensions’ or difficulty levels to progress through. |
 <img src="https://github.com/user-attachments/assets/c4dbf1ae-adb3-4891-96a0-0f0dd4240434" width="280" height="300">
 <img src="https://github.com/user-attachments/assets/21a5c3cb-dc72-4051-9725-60fcfa1e4b7c" width="280" height="300">
-
----
-
-## GAME PROGRESSION
-| **Roguelikes have a “permadeath” feature and have 'growth over time' mechanics.** | 
-| :--------------------: |
-| The goal of the challenge is to complete the entirety of the game without your lead pokemon fainting by only fighting trainers. All stats, abilities, items, moves (learnable via level and TMs) are randomized. |
-| Evolutions in RogueMon will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
-> Example: Charmander evolves into Combusken. The SPD gets a slight buff from the additional base stats where the DEF got nothing. Both have Mold Breaker.
-
-<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 
 ---
 
@@ -47,8 +36,9 @@
 | **All pokemon available in the game will be able to evolve at least once. Evolutions are randomized, but with some logic:** |
 | :--------------------: |
 | The evolution will share a type with the previous form, and will be of approximately similar BST to what it is “supposed” to become (usually within +/-10%). |
-| No cancelling evolutions. Everstones are allowed if desired, if acquired by a prize. Roguestone use is a choice. |
-| Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
+| Everstones are allowed if desired, if acquired by a prize. Roguestone use is a choice. |
+| Evolutions in RogueMon will SHARE BST distribution AND ability. Any additional BST from the evolution will be *randomly* distributed ON TOP of the previous mons. |
+<img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20starter.png" width="300" height="240">      <img src="https://github.com/BigMurph619/Roguemon/blob/main/roguemon%20evo.png" width="300" height="240">
 | All evolution items in RogueMon were removed and replaced with a "Roguestone". A Roguestone is an 'omni' evolution item. It evolves any pokemon that would otherwise evolve using an item.
 
 # <h3 align="center">Unique Evolution Methods</h1>
@@ -64,45 +54,81 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 <h1 align="center">ROGUEMON RULES</h1>
 
 ## LAB
-| **Lab mons are guaranteed to be base form evolutions and will evolve at least once.** |
+| **Lab / Early Route mons are guaranteed to be base form evolutions and will evolve at least once.** |
 | :--------------------: |
 | You can choose your starter in the lab. |
 | All lab fights will always be Lvl.6 vs Lvl.6 |
-| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY if you are using the RogueMon Tracker extension. Get the 5th from the Mart employee on Route 1. |
+| You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY. Get the 5th from the Mart employee on Route 1. |
 | The player may NEVER click an illegal move, even in the lab UNLESS it is your only damaging move, or all other moves are at 0 PP. |
 | The player has the option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. (They are tabled from Route 1,2,22 and VF.) |
 
 ---
 
 ## WILD POKEMON
-| *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type can be specified in the Roguemon-randomizer.* |
+| *Wild pokemon will be any unevolved pokemon that can evolve by level,  friendship, or a game mode exclusive "Roguestone". Type is locked by stpping on a tile in the tower.* |
 | :--------------------: |
-| Pokemon in the wild have a 100% catch rate. |
+| Pokemon in the wild have a 100% catch rate. (unless you took the adopted pokemon, then it will be 0%) |
 | Wild Pokemon have a 50% increase to their level in all ascensions. |
 | NOTE: Once you fight a non-rival trainer, you are LOCKED with your current pokemon for the attempt. |
 | You may catch 5 pokemon if you chose to take Oak's balls, and then choose ONE to attempt the challenge, including the same pokemon 5 times if you choose. |
 | Once you select the ONE pokemon you are going to run, you may keep the item it’s holding if it has one, treating it as though you picked it up from the ground. |
 | You may heal freely while you are catching your 5 pokemon. However, if your lead pokemon faints your run ends. |
-| You may swap your lead pokemon at any time during this phase. You may use moves on wild pokemon, but you can’t intentionally faint them. If you do happen to defeat a wild with a move, you cannot run the pokemon that gained experience. |
-| If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches.If you are trapped before obtaining balls, you may KO the pokemon in good faith and continue. |
-| After locking your pokemon to run, you can catch and release any wild pokemon you wish later on in the run. |
+| You may swap your lead pokemon at any time during this phase. |
+| Some moves are banned in wild encounters that would give you an advantage like Sketch and Healing moves. |
+| If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches. You may also KO the pokemon as it does not yield EXP. |
 | All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1. |
-| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Croz. You may fight wilds to get to level 8 outside of prizes, and are trusted to do your best to hit level 8 evenly. |
+| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Crozwords. The scientist will level it up to 8. |
 
 ---
 
-## BANNED MOVE/ABILITY LIST
-| **All moves and items that can heal the user's HP or status without dealing direct damage are banned-- this includes simple healing moves (Moonlight, Recover, etc.), passive effects (Ingrain, Leech Seed, Rain Dance if the user has Rain Dish), other manipulation of the user's HP (Pain Split), and status healing (Aromatherapy, Heal Bell, Refresh). Leftovers is banned on all ascensions. Damaging healing moves and items are allowed. i.e. Draining Kiss/Giga Drain or Shell Bell (with some limitations based on Ascension level).** |
+## BANNED MOVE/ABILITY/ITEM AND COMBINATIONS LIST
+| Illegal moves can NEVER be selected by the player. Illegal moves must be overwritten at first opportunity. If they're two or more moves are illegal in combination, they can both be carried, but only one per fight can be used. |
 | :--------------------: |
-| [See Ascension section for Shell Bell rules](#Ascension-Difficulty-Increase) |
-| You cannot gain any advantage from encountering wild pokemon. For instance, Sketch is allowed but you cannot use Sketch on wild pokemon or allow them to sketch you before catch. It's okay if a wild pokemon faints itself (Memento, Explosion, etc.) but you can't run a pokemon that gained experience from that if you already knew the wild pokemon had that move. |
-| Huge Power/Pure Power is banned in AS2 and AS3. |
-| Compound Eyes + Sleep moves are banned in AS2 and AS3. Spore always banned. |
-| Assist is banned in all ascensions. |
-| If playing in Generation 4+, No Guard + OHKO is banned. |
-| Illegal moves can NEVER be selected by the player, unless forced by lab choice or game mechanic. Illegal moves must be overwritten at first opportunity. |
+
+ALL ASCENSIONS BANLIST
+| :--------------------: |
+| All moves and items that heal/manipulate the user's HP or status without inflicting direct damage. (Leftovers, Poison Heal + Toxic Orb, etc) |
+| You cannot gain any advantage from encountering wild pokemon. Examples include Sketch and Healing moves. The game will not allow you to use these moves in wild battles. |
+| Assist. |
+| Spore. |
+| No Guard + OHKO / Sleep. |
+| Sketch and Healing moves in wild battles. | 
+| Items that are not on your chosen Starting Pokemon. |
+
+A2 BANLIST
+| :--------------------: |
+| Huge Power/Pure Power. Unless traced or acquired via other means. |
+| Compound Eyes + Sleep moves |
+| Moves that buff 1 attacking stat + any other stat, are limited to 1 click per fight. |
+| Moves that buff 1 attacking stat ONLY, are limited to 2 clicks per fight. |
+| **Shell Bell** + Passive Setup moves, HP Draining Moves, Guaranteed Boost moves (no probability attached). |
+| **Draining Moves** + **Passive Setup Moves** allowed in same moveset, can only use one or other per fight. |
+| **Draining Moves** + **Guaranteed Boost Moves** allowed in same moveset, can only use one or other per fight. |
+
+A3 BANLIST
+| :--------------------: |
+| Huge Power/Pure Power. Unless traced or acquired via other means. |
+| Compound Eyes + Sleep moves |
+| All Passive Offensive Setup Moves. |
+| Draining Moves are limited to 1 user per fight. |
+| Shell Bell + HP Draining Moves are banned. | 
+| Any move that explicitly states an ATK or SPA up (no probability attached). |
+| All abilities that allow attacking stat increase stacking. Moxie, Grim/Chilling Neigh, etc. |
 
 ---
+
+<h1 align="center">ASCENSION DIFFICULTY INCREASE</h1>
+> See all banned move/ability/item combinations above based on ascension.
+
+ASCENSION 1 | ASCENSION 2 | ASCENSION 3
+-|-|-
+All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
+1 random segment will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
+N/A | Shell Bell is banned if your BST is 500 or higher. | Shell Bell is banned if your BST is 500 or higher. 
+N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
+N/A | N/A | All Rival Fights must be completed as part of the previous segment or subsequent segment (player choice).
+
+> In A1 Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. (Forest Nurse is QOL and not permitted for mid-segment heal)
 
 ## BAG SPACE CAP
 | **There will be a base bag space cap for HP heals and Status Heals during the run. It can increase with prizes after beating Milestones.**     | 
@@ -121,47 +147,29 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 
 ---
 
+
 ## TRAINERS
 | **They will have pokemon that progressively scale in power.** |
 | :--------------------: |
-| Before level 30 - all pokemon will not be fully evolved |
 | Before level 20  - all pokemon must be able to evolve again, and are <500BST. |
-| Between level 20 and level 29 - all pokemon will be at least 320 BST. |
-| After level 30 - all pokemon will be fully evolved but <570BST |
-| Before level 40 - all pokemon will not be legendary/mythic/mega/etc. |
+| Between level 20 and level 29 - all pokemon will be at least 320 BST. But will NOT be fully evolved. |
+| Levels 30-39 - all pokemon will be fully evolved but <570BST. And will not be legendary/mythic/mega/etc. |
+| After level 40 - Pokemon can be legendary/mythic/mega/etc. No BST restrictions. |
 | Boss trainers’ aces will have randomized sensible items. In Ascension 3, all trainers Pokemon will have randomized sensible items. |
 > NOTE: Perish Song is completely removed from trainers!
 
 ---
 
-<h1 align="center">ASCENSION DIFFICULTY INCREASE</h1>
-
-ASCENSION 1 | ASCENSION 2 | ASCENSION 3
--|-|-
-All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
-Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. (Forest Nurse is QOL and not permitted for mid-segment heal) | Huge/Pure Power is banned. | Huge/Pure Power is banned.
-1 random segment will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
-N/A | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together. | Shell Bell is banned if your BST is 500 or higher. Shell Bell and Draining moves not allowed together.
-N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
-N/A | Compound Eyes + Any Sleep move is banned. | Compound Eyes + Any Sleep move is banned.
-N/A | *Any* combo of Passive Offensive Setup moves (+ATK or +SPA), Shell Bell, and Draining moves together in battle = banned. You may have multiple banned elements so long as you do not use them both in the same fight. | Draining Kiss is banned
-N/A | N/A | All Rival Fights must be completed as part of the previous segment or subsequent segment (player choice).
-N/A | N/A | Passive Offensive Setup moves are banned (+ATK or +SPA). But attacking moves that boost these stats are allowed (e.g. Rage) X items that boost these stats are still allowed.
-
-When you start a new ascension, make sure to adjust your options to the appropriate settings in the tracker (Extensions -> RoguemonTracker -> Options).
-
----
 
 <h1 align="center">ITEMS</h1>
 
 ## GENERAL ITEM RULES
 | **All ground items are randomized. There are limitations to how they are used limited to immediate pickup Shop Phase and Cleansing Phase rules (see below)** |
 | :--------------------: |
-| Legal items are limited to visible, hidden, and NPC gift. |
+| Legal items are limited to visible, hidden, and NPC gift within your current segment. |
 | ALL step items are banned and have been removed from the game. |
-| No buying items in shops unless allowed from a prize. Repels only exception. **NO POKEBALLS!** |
 | No breaking and entering. You are not permitted to enter buildings not required by story / RogueMon prize to pick up items. You may also not steal items from people's residences (e.g. the Warden and the Copycat). |
-| Some prizes may also allow you to buy things such as TMs that are not automatically handled by the tracker extension. |
+| Some prizes may also allow you to buy things such as TMs that are not automatically handled by the Roguemon extension. |
 
 ---
 
@@ -178,10 +186,9 @@ When you start a new ascension, make sure to adjust your options to the appropri
 ## HEALING ITEMS
 | **You may keep it. HOWEVER, if it puts you over your current HP or status cap, you must immediately use or trash healing items (or equip berries) until you are below the HP Cap.** |
 | :--------------------: |
-| In the tracker, you need to toggle to display HP heals in bag as a whole number and not a percentage. (Settings>Gameplay>Options) |
 | You may use the item you just picked up, or an item you already had, as long as you end up back under the limit. |
 | All heals that exceed your max HP, are EQUAL to your Pokemon’s current HP. |
-| Status healing berries (e.g. Pecha, Cheri) are counted in this category, NOT as consumables. |
+| Status healing berries (i.e. Pecha, Cheri) are counted in this category, NOT as consumables. |
 
 ---
 
@@ -207,8 +214,8 @@ When you start a new ascension, make sure to adjust your options to the appropri
 | **All TMs have full compatibility, however...** |
 | :--------------------: |
 | Gym TMs can be taught without restriction, but you must decide to teach immediately. |
-| Ground TMs can only be taught if a prize roll ([see items](#Items)) allows you to. |
-| You may use a "found item" prize to keep a TM, however will require another prize to teach it. |
+| Ground TMs can only be taught if granted by a prize reward. ([see items](#Items))  |
+| You may use a "found item" prize to keep a TM in your bag, however will require another prize to teach it. |
 
 ---
 
@@ -216,7 +223,7 @@ When you start a new ascension, make sure to adjust your options to the appropri
 | **Between Gyms, Items you pick up can be KEPT, temporarily – but they can’t be used yet. It’s possible you can Win/Choose to keep them via a Prize. If you don’t Win/Choose them from a prize, they will get trashed in the next Cleansing Phase.** |
 | :--------------------: |
 | Think of your bag as a temporary holding space for some possible items you can win when you get a prize. |
-> Exception - Pre-Gym 1 held item. Until you have cleared the first gym, you may use any non-banned held items, X items, and flutes you pick up, without restrictions unless it breaks one of the core Ascension Rules. These items must all be trashed during the cleansing phase after completing Gym 1, whether or not they were used.
+> Exception - Pre-Gym 1 (Brock in FRLG). Until you have cleared the first gym, you may use any non-banned held items, X items, and flutes you pick up, without restrictions unless it breaks one of the core Ascension Rules. These items must all be trashed during the cleansing phase after completing Gym 1, whether or not they were used.
 
 ---
 
@@ -270,7 +277,6 @@ You are limited to ONE HM friend, and owning ONE revive item per run.
 | **You must purge items from all pockets in your game that were found on the ground since the last gym. Unless, you are permitted to keep them via Prize. Any item you have claimed from a prize is owned, and not cleansed.** |
 | :--------------------: |
 | The following items will never be cleansed: 
-Repels 
 Pokeballs
 Heals (PP, HP, status)
 Battle items you have unlocked via Prize
