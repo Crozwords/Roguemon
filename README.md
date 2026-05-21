@@ -122,7 +122,7 @@ A3 BANLIST
 | Draining Moves are limited to 1 user per fight. |
 | Shell Bell + HP Draining Moves are banned. | 
 | Any move that explicitly states an ATK or SPA up (no probability attached). |
-| All abilities that allow stacking attacking stat increase stacking. Moxie, Grim/Chilling Neigh, etc. |
+| All abilities that permit the stacking of ATK/SPA. eg. Moxie, Grim/Chilling Neigh, etc. |
 
 ---
 
