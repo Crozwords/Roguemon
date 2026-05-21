@@ -81,6 +81,15 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 
 ---
 
+## The KARP
+| *You will be given a HM magikarp from a familiar face outside of Mt. Moon.* |
+| :--------------------: |
+| You are allowed to use the magikarp as a battle resource. Swapping is permitted. |
+| Your main Pokemon must start each battle. |
+| If you evolve your magikarp (lvl.20), you will be awarded 2x Large XP Candies. |
+
+---
+
 ## BANNED MOVE/ABILITY/ITEM AND COMBINATIONS LIST
 | Illegal moves can NEVER be selected by the player. Illegal moves must be overwritten at first opportunity. If they're two or more moves are illegal in combination, they can both be carried, but only one per fight can be used. |
 | :--------------------: |
