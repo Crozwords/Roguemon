@@ -103,6 +103,7 @@ ALL ASCENSIONS BANLIST
 | No Guard + OHKO / Sleep. |
 | Sketch and Healing moves in wild battles. | 
 | Items that are not on your chosen Starting Pokemon. |
+| Comatose. |
 
 A2 BANLIST
 | :--------------------: |
@@ -113,6 +114,7 @@ A2 BANLIST
 | **Shell Bell** + Passive Setup moves, HP Draining Moves, Guaranteed Boost moves (no probability attached). |
 | **Draining Moves** + **Passive Setup Moves** allowed in same moveset, can only use one or other per fight. |
 | **Draining Moves** + **Guaranteed Boost Moves** allowed in same moveset, can only use one or other per fight. |
+| Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves|
 
 A3 BANLIST
 | :--------------------: |
@@ -123,6 +125,7 @@ A3 BANLIST
 | Shell Bell + HP Draining Moves are banned. | 
 | Any move that explicitly states an ATK or SPA up (no probability attached). |
 | All abilities that permit the stacking of ATK/SPA. eg. Moxie, Grim/Chilling Neigh, etc. |
+| Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves|
 
 ---
 
@@ -326,7 +329,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 |Safety Zone| If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag. |
 |Live Audience| When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns. |
 |Moody| at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat. |
-|TikTok| Every fight one of your moves becomes Metronome. You don't know which one. |
+|TikTok| Every fight one of your moves becomes Metronome. You don't know which one. **(self destroying moves i.e. explosion etc. will leave the user with 1HP)** |
 |Curse of Decay| Whenever your pokemon uses a damaging move, it loses 1 EV in the corresponding attacking stat. |
 |Poltergeist| If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item. |
 |Debilitation| Your Attack and Sp.Atk IVs are set to 0 for the duration of the segment. |
