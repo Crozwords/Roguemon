@@ -59,7 +59,7 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 | You can choose your starter in the lab. |
 | All lab fights will always be Lvl.6 vs Lvl.6 |
 | You will always start each run with 5 Potions. You receive 4 AUTOMATICALLY. Get the 5th from the Mart employee on Route 1. |
-| The player may NEVER click an illegal move, even in the lab UNLESS it is your only damaging move, or all other moves are at 0 PP. |
+| All moves are legal in the lab without restriction. |
 | The player has the option to **Either** 1) Receive 5 random pokeballs from Oak on Route 1 **OR** 2) Take 5 unique level 8 adopted pivots in Pallet Town. (They are tabled from Route 1,2,22 and VF.) |
 
 ---
@@ -244,9 +244,9 @@ N/A | N/A | All Rival Fights must be completed as part of the previous segment o
 ---
 
 > Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll.
-If you obtain a legal Revive, this is how to use it upon fainting: send your HM friend in, use the revive, then use moves with the HM friend until it faints.
+If you obtain a legal Revive, you use it by selecting your it in your bag after your mon has fainted, and your HM Karp has been swapped into battle.
 As such, your HM friend should always be with you if you have one.
-If a trainer swaps your HM friend in, you may attack with moves until it faints, but this will forfeit your ability to use a revive until you can use a Pokemon Center. You cannot benefit from your HM friend's item, or pickup if it has it. Other impactful abilities are fine.
+If your HM Karp is fainted, you will have forfeited your ability to use a Revive for that Segment. 
 You are limited to ONE HM friend, and owning ONE revive item per run.
 
 ---
