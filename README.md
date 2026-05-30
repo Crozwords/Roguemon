@@ -368,6 +368,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | Starter Pack - Learn a non-stab lower power move. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - tracker notes (stats and known ability) transfer to evolutions |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/popupshop.png" width="25" height="25"> | Open the "Buy Phase" 3 times this run to exchange HP or Status Heals. |
 
 ---
 
@@ -391,8 +392,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50capsule.png" width="25" height="25"> | HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppuppotion.png" width="25" height="25"> | PP Up + Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2vitpot.png" width="25" height="25"> | Any Vitamin x2 + Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2potvit.png" width="25" height="25"> | Any Vitamin + Potion x2 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/machoberryj.png" width="25" height="25"> | Choose an EV training Item to use until Misty. Equip a Berry Juice. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppupether.png" width="25" height="25"> | PP Up + Ether |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/choose-2.png" width="25" height="25"> | Choose 2 - Choose 2 prizes from the Misty's prize roll. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Potion + Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
@@ -420,7 +420,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/allfourstatus.png" width="25" height="25"> | Full Heal + Any Status Heal |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threepotionandchoice.png" width="25" height="25"> | Potion x3 + Any Status Heal |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superandchoice.png" width="25" height="25"> | Super Potion + Any Status Heal x2 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | Temporary Held Item - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/grounditem.png" width="25" height="25"> | Temporary Held Item - Keep and Hold an item from bag for 2 gym badges. It's cleansed after Erika. Gain a reroll chip. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal  + Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/superstatusether.png" width="25" height="25"> | Super Potion + Any Status Heal + Ether |
@@ -436,8 +436,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="25" height="25"> | Luck Incense - Hold an HP heal that exceeds your Cap until you can add it |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - Use to reroll for 3 new prizes when offered (1 time). |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppupmaxether.png" width="25" height="25"> | PP Up + Max Ether |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2vitsuper.png" width="25" height="25"> | Any Vitamin x2 + Super Potion |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/machositrus.png" width="25" height="25"> | Choose an EV training Item to use until Surge. Equip a Sitrus Berry. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Potion + Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/remodeler.png" width="25" height="25"> | Remodeler - For the rest of the run, when you find a TM, you may teach it over a move you know of the same type. |
@@ -466,7 +465,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2superreroll.png" width="25" height="25"> | Super Potion x2 + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/direguardether.png" width="25" height="25"> | Guard Spec. + Dire Hit + Ether |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50candy.png" width="25" height="25"> | HP Cap +50 & Rare Candy |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/3vit.png" width="25" height="25"> | Any Vitamin x3 |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/weakening-contract.png" width="25" height="25"> | Weakening Contract - Choose 1, 2, or 3 EV stat categories. Set them to 0. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/coolerbag.png" width="25" height="25"> | Cooler Bag - Berry Juice, Fresh Water, Soda Pop, Lemonade, Moomoo Milk don't count against HP Cap; Berry Juices don't need to be equipped immediately |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/leftovers.png" width="25" height="25"> | Regenerator - regain 3% of your max HP after every fight |
