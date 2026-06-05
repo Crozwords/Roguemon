@@ -137,7 +137,7 @@ ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
 All trainers pokemon will have a 20% level increase. | All trainers pokemon will have a 40% level increase. | All trainers pokemon will hold sensible items and have a 50% increase.
 1 random segment will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments will be Cursed, applying negative effects to you while you are in that segment. | 5 random segments and 2 Gyms will be Cursed, applying negative effects to you while you are in that segment.
-N/A | Shell Bell is banned if your BST is 500 or higher. | Shell Bell is banned if your BST is 500 or higher. 
+Beds, Healing spaces, and Nurse Trainers can be used/fought once, at a time of player choosing. | Shell Bell is banned if your BST is 500 or higher. | Shell Bell is banned if your BST is 500 or higher. 
 N/A | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced | Beds, Healing spaces, and Nurse Trainers cannot be used/fought unless otherwise stated or forced
 N/A | N/A | All Rival Fights must be completed as part of the previous segment or subsequent segment (player choice).
 
