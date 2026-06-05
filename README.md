@@ -541,7 +541,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 |:---:|---|
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/full-restore.png" width="25" height="25"> | Full Restore |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/maxandfull.png" width="25" height="25"> | Max Potion + Full Heal |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR visit the move tutor in Celadon (may use this mushroom plus any that were unlocked by Item prizes) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmrelearnmush.png" width="25" height="25"> | Big Mushroom + 1 found/given TM OR talk to the move tutor (may use this mushroom plus any that were unlocked by Item prizes) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp100hyper.png" width="25" height="25"> | HP Cap +100 + Hyper Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/twoxitems.png" width="25" height="25"> | Any Battle Item x2 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/revive.png" width="25" height="25"> | Revive/Max Revive (limit one revive item per run) Keep your HM friend with you; send it out and revive if you faint |
