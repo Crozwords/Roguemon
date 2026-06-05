@@ -411,6 +411,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/Rare Candy.png" width="25" height="25"> | Rare Candy |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | +25 HP Cap |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/rerollchip.png" width="25" height="25"> | Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/fullhealether.png" width="25" height="25"> | Full Heal + Ether |
 
 ---
 
@@ -548,6 +549,8 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-charm.png" width="25" height="25"> | Fight Route 12/13 or Route 14/15 (treat as a single segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancestral-gift.png" width="25" height="25"> | Moomoo Milk & Ancestral Gift - choose and unlock a type-boosting item matching one of your moves |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tera-orb.png" width="25" height="25"> | Tera Orb - Choose a type matching a move; 5 times, you may change to that type |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancientteachings.png" width="25" height="25"> | Gain a 10% chance to omniboost after each move use. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/league-lootbox.png" width="25" height="25"> | Gain 3x Rare Candies, A Nature Mint, An Ability Capsule, and a Fresh Water. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
 ---
