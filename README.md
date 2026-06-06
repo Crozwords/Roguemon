@@ -368,8 +368,8 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berryfull.png" width="25" height="25"> | Berry Juice + Full Heal (must equip berry juice) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | Starter Pack - Learn a non-stab lower power move. |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - tracker notes (stats and known ability) transfer to evolutions |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/popupshop.png" width="25" height="25"> | Open the "Buy Phase" 3 times this run to exchange HP or Status Heals. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - Add a "+" to the highest IV the 1st encounter with each pokemon. Tracker notes (stats and known ability) transfer to evolutions. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/popupshop.png" width="25" height="25"> | Pop-up Shop: Open the "Buy Phase" 3 times this run to exchange HP or Status Heals. |
 
 ---
 
