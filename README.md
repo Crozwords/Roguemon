@@ -88,6 +88,7 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 | You are allowed to use the magikarp as a battle resource. Swapping is permitted. |
 | Your main Pokemon must start each battle. |
 | If you evolve your magikarp (lvl.20), you will be awarded 2x Large XP Candies. |
+| If your magikarp happens to have pickup, those items are not permitted. |
 
 ---
 
