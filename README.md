@@ -115,7 +115,7 @@ A2 BANLIST
 | **Shell Bell** + Passive Setup moves, HP Draining Moves, Guaranteed Boost moves (no probability attached). |
 | **Draining Moves** + **Passive Setup Moves** allowed in same moveset, can only use one or other per fight. |
 | **Draining Moves** + **Guaranteed Boost Moves** allowed in same moveset, can only use one or other per fight. |
-| Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves|
+| Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves, and guaranteed offensive moves (no probability). |
 
 A3 BANLIST
 | :--------------------: |
@@ -126,7 +126,7 @@ A3 BANLIST
 | Shell Bell + HP Draining Moves are banned. | 
 | Any move that explicitly states an ATK or SPA up (no probability attached). |
 | All abilities that permit the stacking of ATK/SPA. eg. Moxie, Grim/Chilling Neigh, etc. |
-| Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves|
+| Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves. |
 
 ---
 
