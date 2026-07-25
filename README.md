@@ -105,6 +105,7 @@ CHANGES
 | If you evolve your magikarp (lvl.20), you will be awarded 2x Large XP Candies. |
 | Karp is maxxed at level 50. | 
 | If your magikarp happens to have pickup, those items are not permitted. |
+| Revive note: You may only use one if you unlock from a prize roll. If you obtain a legal Revive, you use it by selecting your it in your bag after your mon has fainted, and your HM Karp has been swapped into battle. As such, your HM friend should always be with you once acquired. If your HM Karp is fainted, you will have forfeited your ability to use a Revive for that Segment. You are limited to owning ONE revive item per run. |
 
 ---
 
@@ -260,14 +261,6 @@ N/A | N/A | All Rival Fights must be completed as part of the previous segment o
 ---
 
 > Note: The "Found Item" prize can be used to unlock any held item, X item, flute, or TM. If you unlock a held item, it may be equipped and unequipped at will; if you unlock an X item or a flute, it may be used normally; if you unlock a TM, it may not be taught yet, but is permanently safe from being cleansed and may be taught with a "TM in bag" prize later.
-
----
-
-> Revive note:  Revives are treated as being in the other items category. You may only use one if you unlock from a prize roll.
-If you obtain a legal Revive, you use it by selecting your it in your bag after your mon has fainted, and your HM Karp has been swapped into battle.
-As such, your HM friend should always be with you if you have one.
-If your HM Karp is fainted, you will have forfeited your ability to use a Revive for that Segment. 
-You are limited to ONE HM friend, and owning ONE revive item per run.
 
 ---
 
