@@ -78,7 +78,22 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 | Some moves are banned in wild encounters that would give you an advantage like Sketch and Healing moves. |
 | If you are trapped and cannot escape, you can catch the pokemon that trapped you, but it counts as one of your 5 catches. You may also KO the pokemon as it does not yield EXP. |
 | All pokemon that evolve with any stone/item now take a "Roguestone" to evolve. Roguestones you find randomly can be kept and used at any time after gym 1. |
-| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it or face the wrath of Crozwords. The scientist will level it up to 8. |
+| **Shiny Rule** - If you are scouting your mon to run, and find a shiny, you must attempt to run it. The scientist will level it up to 8. |
+
+---
+
+## CURRENT GEN. VARIATIONS
+- These were changed for balance/difficulty of the challenge.
+
+CHANGES
+| :--------------------: |
+| **Sleep** is 2-5 turns equal chance for each. |
+| **Paralysis** is 25% speed 75% to act, electric type immune. |
+| **Poison** walking 1 damage every 5 steps, will faint if 0 HP. |
+| **Burn** 50% ATK, 1/16 every turn. |
+| **Freeze** 20% to thaw cannot act while froze. |
+| **Critical Hits** - 2x damage. |
+| Multi-attack, Judgement, etc. all work with plates, drives, memories |
 
 ---
 
@@ -88,35 +103,38 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 | You are allowed to use the magikarp as a battle resource. Swapping is permitted. |
 | Your main Pokemon must start each battle. |
 | If you evolve your magikarp (lvl.20), you will be awarded 2x Large XP Candies. |
+| Karp is maxxed at level 50. | 
 | If your magikarp happens to have pickup, those items are not permitted. |
 
 ---
 
 ## BANNED MOVE/ABILITY/ITEM AND COMBINATIONS LIST
-| Illegal moves can NEVER be selected by the player. Illegal moves must be overwritten at first opportunity. If they're two or more moves are illegal in combination, they can both be carried, but only one per fight can be used. |
-| :--------------------: |
+- Illegal moves must be overwritten at first opportunity. If two or more moves are illegal in combination, they can both be carried, but only one per fight can be used. |
+- ONE CLICK per fight, DOES include if you attempt to use it and FAIL, via flinch, status, etc.
 
 ALL ASCENSIONS BANLIST
 | :--------------------: |
-| All moves and items that heal/manipulate the user's HP or status without inflicting direct damage. (Leftovers, Poison Heal + Toxic Orb, etc) |
+| Moves that heal the Pokemon for >20% HP on a single turn. |
+| Items that heal/manipulate the user's HP or status (Leftovers, Poison Heal + Toxic Orb, etc) |
 | You cannot gain any advantage from encountering wild pokemon. Examples include Sketch and Healing moves. The game will not allow you to use these moves in wild battles. |
 | Assist. |
 | Spore. |
 | No Guard + OHKO / Sleep. |
 | Sketch and Healing moves in wild battles. | 
-| Items that are not on your chosen Starting Pokemon. |
 | Comatose. |
 
 A2 BANLIST
 | :--------------------: |
 | Huge Power/Pure Power. Unless traced or acquired via other means. |
 | Compound Eyes + Sleep moves |
-| Moves that buff 1 attacking stat + any other stat, are limited to 1 click per fight. |
-| Moves that buff 1 attacking stat ONLY, are limited to 2 clicks per fight. |
+| Moves that buff 1 attacking stat + any other stat, passively, or no probability attached. Incl. ‘on KO effects’) are limited to 1 click per fight. |
+| Moves that buff the SAME stat multiple stages, passively, or no probability attached. Incl. ‘on KO effects’) are limited to 1 click per fight. |
+| Moves that buff 1 attacking stat ONLY, passively, or no probability attached. Incl. ‘on KO effects’) are limited to 2 clicks per fight. |
 | **Shell Bell** + Passive Setup moves, HP Draining Moves, Guaranteed Boost moves (no probability attached). |
 | **Draining Moves** + **Passive Setup Moves** allowed in same moveset, can only use one or other per fight. |
 | **Draining Moves** + **Guaranteed Boost Moves** (single-turn) allowed in same moveset, can only use one or other per fight. |
 | Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves, and guaranteed offensive moves (no probability). |
+
 
 A3 BANLIST
 | :--------------------: |
@@ -125,7 +143,7 @@ A3 BANLIST
 | All Passive Offensive Setup Moves. |
 | Draining Moves are limited to 1 user per fight. |
 | Shell Bell + HP Draining Moves are banned. | 
-| Any move that explicitly states an ATK or SPA up (single-turn and no probability attached). |
+| Any move that explicitly states an ATK or SPA up (single-turn, passively, or no probability attached. Incl. ‘on KO effects’). |
 | All abilities that permit the stacking of ATK/SPA. eg. Moxie, Grim/Chilling Neigh, etc. |
 | Abilities that give +1 to atk or spa (or field drop def/spd) are banned with shell bell and draining moves. |
 
@@ -308,29 +326,29 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | Curse Name | Description |
 |:---:|---|
 |Forgetfulness| After the first fight in this segment, your bottom-most move is changed to a random move. (You may still switch around your move order at any time.) |
-|Claustrophobia| If this segment is not full cleared, permanently lose 50 HP Cap. |
+|Claustrophobia| If this segment is not full cleared, permanently lose 50 HP Cap and 1 Status Cap. |
 |Downsizing| If this segment is not full cleared, prize spins permanently have 1 fewer option. |
 |Tormented Soul| You have the Torment effect (you cannot use the same move twice in a row). |
 |Kaizo Curse| You may not use healing items from your bag outside of battle. |
-|Headwind| Start each battle at -2 Speed. |
+|Headwind| Randomly start each battle at -1 or -2 Speed. |
 |Sharp Rocks| All enemy pokemon get the Focus Energy effect (+2 critical hit rate). |
-|High Pressure| Lose 50% PP on all moves at the start of the segment. |
+|High Pressure| Lose 50% PP on all moves at the start of the first trainer fight. |
 |Heavy Fog| All combatants have -1 Accuracy (and it cannot be increased above -1). |
-|Unstable Ground| Automatically flinch on the first turn of each battle. |
+|Unstable Ground| 75% chance to flinch on the first turn of each battle. |
 |1000 Cuts| Permanently lose 5 HP Cap each time you are hit by a damaging move. |
 |Acid Rain| Each battle starts with a random weather condition. The curse description in the carousel will tell you the selected weather. |
 |Toxic Fumes| Take 1 damage for every 8 steps walked. This cannot cause you to faint. |
 |Narcolepsy| Your pokemon has a 30% chance to fall asleep after each fight. |
-|Clean Air| Enemy trainers have infinite Safeguard (protected from status conditions) and Mist (protected from stat drops). |
-|Clouded Instincts| Your first move in each battle must be your first move slot. (You may still switch around your move order at any time.) |
+|Clean Air| Enemy trainers have infinite Safeguard (protected from status conditions) and Mist (protected from stat drops) and Ingrain (passive health regen). |
+|Clouded Instincts| Your first move in each battle must be your first move slot. (You may switch around your move order at any time outside of battle.) |
 |Unruly Spirit| Each turn, your pokemon has a 10% chance to flinch. |
 |Chameleon| Your typing is changed randomly at the start of each fight (25% for a random monotype, otherwise two independently random types, you cannot get a type that gives STAB on any of your moves). You can see your current typing in the tracker. |
 |No Cover| Enemies cannot miss you. (Even if you are underground, in the air, etc.; they are given the Lock-On effect.) |
 |Relay Race| When you knock out an enemy pokemon, the next one comes out with the same stat stages. All enemy pokemon also get +1 Speed in addition to that. |
-|Resourceful| When a move reaches 0 PP, it is randomly changed to a different move. |
+|Resourceful| When a move reaches 0 PP, it is randomly changed to a different move. Lose 1-2 PP on your last used move from battle. |
 |Safety Zone| If you start a fight below 75% HP, you have a 30% chance to lose a random HP healing item in your bag. |
 |Live Audience| When you are hit by a damaging move, if you weren't already affected by this and it didn't just end, you are afflicted by Encore for 2-3 turns. |
-|Moody| at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat. |
+|Moody| at the end of each turn, your pokemon gets +1 in a random stat and -1 in a different random stat. Stat changes persist for the segment. |
 |TikTok| Every fight one of your moves becomes Metronome. You don't know which one. **(self destroying moves i.e. explosion etc. will leave the user with 1HP)** |
 |Curse of Decay| Whenever your pokemon uses a damaging move, it permanently loses 1 EV in the corresponding attacking stat. (You will however continue to gain EVs until full again). |
 |Poltergeist| If this segment is not full cleared, then for the rest of the run, whenever you pick up a type-boosting item (BlackGlasses, Magnet, etc.), you will get a unique negative effect depending on the item. |
@@ -343,8 +361,8 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 |Conversion| Every enemy pokemon becomes the typing of their highest power attacking move. |
 |Perfectly Balanced| Your BST is redistributed evenly for this segment. |
 |Slot Machine| After every battle, your HP is randomly set to 25%, 50%, 75% or 100%. |
-|David vs. Goliath| 3 random enemy pokemon in the segment have 2.5x their usual HP. |
-|Distorted Heart| Your moves' types are randomized each battle. |
+|David vs. Goliath| 5 random enemy pokemon in the segment have 2.5x their usual HP. Carasoul shows when a Goliath is defeated. |
+|Distorted Heart| Your moves' types are randomized each battle. This also randomizes whether they're physical/special. |
 |Distorted Soul| Your moves' powers are randomized each fight between 30 and 90. |
 |Unleash the Beast| If this segment is not full cleared, all future Shedinja's turn into Eternamax Eternatus. |
 
@@ -364,12 +382,12 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Cap +1 + Any Status Heal + Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/exp-forest.png" width="25" height="25"> | Fight *up to* 5 wilds in Viridian Forest- treat as segment (can PC heal after) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandexp.png" width="25" height="25"> | Potion + fight 1st wild you see in Routes 1, 2, and 22 - treat as segment (can PC heal after) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="30" height="25"> | Luck Incense - Pokemon may hold an HP heal that exceeds your Cap until you can add it |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="30" height="25"> | Luck Incense - Your Main Pokemon may hold an HP heal that exceeds your Cap until you can add it |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/potionandreroll.png" width="25" height="25"> | Potion + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berryfull.png" width="25" height="25"> | Berry Juice + Full Heal (must equip berry juice) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/clairvoyance.png" width="25" height="25"> | Clairvoyance (A2/A3 only) - learn all future curses AND swap the location of two. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/starter-pack.png" width="25" height="25"> | Starter Pack - Learn a non-stab lower power move. |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - Add a "+" to the highest IV the 1st encounter with each pokemon. Tracker notes (stats and known ability) transfer to evolutions. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/notetaker.png" width="25" height="25"> | Notetaker - Add a "+" to the highest stat in the 1st encounter with each pokemon. Tracker notes (stats and known ability) transfer to evolutions. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/popupshop.png" width="25" height="25"> | Pop-up Shop: Open the "Buy Phase" 3 times this run to exchange HP or Status Heals. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ballmaster.png" width="25" height="25"> | Ball Master: Use balls to gain +1 to a random stat. Using prize icon does not consume turn. |
 
@@ -387,11 +405,11 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +100 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/trifecta.png" width="25" height="25"> | Status Item Cap +1 + Any Status Heal + Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/duplicator.png" width="25" height="25"> | Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="25" height="25"> | Luck Incense - Hold an HP heal on your main mon that exceeds your HP Cap until you can add it to your bag |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/luck.png" width="25" height="25"> | Luck Incense - Your Main Pokemon can Hold an HP heal on your main mon that exceeds your HP Cap until you can add it to your bag |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/bluevoucher.png" width="25" height="25"> | Temporary TM Voucher - Teach ground TM found BEFORE Misty (immediate choice). Expires after. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/threepotion.png" width="25" height="25"> | Potion x3 |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/diamond.png" width="25" height="25"> | Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase. Max pot after VR. |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/mint.png" width="25" height="25"> | Nature Mint - Change your pokemon’s nature to one of your choice. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/diamond.png" width="25" height="25"> | Potion Investment - Value starts at 20 upgrades to next best heal every badge. Option to withdraw in Buy Phase.  |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/mint.png" width="25" height="25"> | Nature Mint - Change your pokemon’s nature to one of your choice. Their "Native" nature stays the same re: berries. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50capsule.png" width="25" height="25"> | HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ppuppotion.png" width="25" height="25"> | PP Up + Potion |
@@ -410,7 +428,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tmtwo.png" width="25" height="25"> | Teach one of the fighting bros' tutor moves (or neither) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/super-potion.png" width="25" height="25"> | Super Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/elixir.png" width="25" height="25"> | Elixir |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/Rare Candy.png" width="25" height="25"> | Rare Candy |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/Rare Candy.png" width="25" height="25"> | 2x Rare Candy |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | +25 HP Cap |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/rerollchip.png" width="25" height="25"> | Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/fullhealether.png" width="25" height="25"> | Full Heal + Ether |
@@ -431,9 +449,9 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in/outside battle (including Poke Flute) Don't cleanse flutes. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Item voucher: Permanently unlock one non-revive found item before next gym (immediate decision). Prize expires after Surge. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tm.png" width="25" height="25"> | 1 TM Found OR Given in bag |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PPup/PPmax/Rare Candy/Herbs for anytime use |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/diamond.png" width="25" height="25"> | Potion Investment - Value starts at 20 and doubles every badge. Withdraw a single healing item up to its value in Buy Phase. Max pot after VR.  |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/mint.png" width="25" height="25"> | Nature Mint - Change your pokemon’s nature to one of your choice. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PPup/PPmax/Rare Candy/Herbs for anytime use. Gain 1 White Herb, and 1 gem matching each of your current moves. |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/diamond.png" width="25" height="25"> | Potion Investment - Value starts at 20 upgrades to next best heal every badge. Option to withdraw in Buy Phase.  |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/mint.png" width="25" height="25"> | Nature Mint - Change your pokemon’s nature to one of your choice. Their "Native" nature stays the same re: berries. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50capsule.png" width="25" height="25"> | HP Cap +50 + Ability Capsule - Change your pokemon’s ability to its other slot. You see the other ability before choosing. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/duplicator.png" width="25" height="25"> | Duplicator - Gain a duplicate of HP/status/PP healing item found (immediate choice) |
@@ -463,7 +481,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/flutesuper.png" width="25" height="25"> | Flutist + Super Potion - you can use flutes in/outside battle (including Poke Flute) Don't cleanse flutes |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/berry-pouch.png" width="25" height="25"> | Berry Pouch - HP Berries may be stored instead of equipped; status berry do not count against cap |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/tempvoucher.png" width="25" height="25"> | Temporary Item Voucher - Permanently unlock one non-revive found item before Erika's Gym (immediate decision) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PP Up/PP Max/Rare Candy/Herbs for anytime use |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/candy-jar.png" width="25" height="25"> | Goody Jar - You may now save PPup/PPmax/Rare Candy/Herbs for anytime use. Gain 1 White Herb, and 1 gem matching each of your current moves. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/warding-charm.png" width="25" height="25"> | Warding Charm (A2/A3 only) - Remove the effect of one curse in the future. (must be done beginning of segment) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/xspesuper.png" width="25" height="25"> | X Speed + Super Potion |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/2superreroll.png" width="25" height="25"> | Super Potion x2 + Reroll Chip - Use to reroll for 3 new prizes when offered. (1 time) |
@@ -528,10 +546,10 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hp50tutor.png" width="25" height="25"> | HP Cap +50 + Move Tutor - may use move tutor in current city (Not on Silph Co; on Sabrina, comes with Poke Doll) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/healing-pocket.png" width="25" height="25"> | HP Cap +150 |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/secretdexsuper.png" width="25" height="25"> | Super Potion + Secret Dex - get +/=/- stat markings on all 570+ BST pokemon (- means <BST\*2/15, + means >BST\*1/5, otherwise =) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/XFACTOR.png" width="25" height="25"> | X Factor - You can now keep and use Battle Items freely (Koga/Silph Co. ONLY) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/XFACTOR.png" width="25" height="25"> | X Factor - You can now keep and use Battle Items freely. Gain one now. (Koga/Silph Co. ONLY) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/spidey-sense.png" width="25" height="25"> | Spidey Sense: Learn if enemies have Counter, Mirror Coat, or Destiny Bond (Koga, Silph Co. Sabrina Only) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/pocket-sand.png" width="25" height="25"> | Pocket Sand - Once per segment, may reduce enemy's accuracy to -6 (includes Ether/Max Ether on Sabrina/Blaine) (Prize not on Giovanni) |
-| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-training.png" width="25" height="25"> | Hyper Training - Increase the IV in one stat by +10. If Hyper Train again, max an IV. If Hyper Train 3rd time, max all IVs |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/hyper-training.png" width="25" height="25"> | Hyper Training - Increase the IV in one stat by +15. If Hyper Train again, max an IV. If Hyper Train 3rd time, max all IVs |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/artiste.png" width="25" height="25"> | Artiste - Learn Sketch (Koga Only) |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
 
@@ -554,6 +572,7 @@ Poke Dolls, Smoke Balls, and Fluffy Tails are allowed and can be kept. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ancientteachings.png" width="25" height="25"> | Ancient Teachings: Gain a 10% chance to omniboost after each move use. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/league-lootbox.png" width="25" height="25"> | League Lootbox: Gain 3x Rare Candies, A Nature Mint, An Ability Capsule, and a Fresh Water. |
 | <img src="https://github.com/Crozwords/Roguemon/blob/main/images/assault-vest.png" width="25" height="25"> | Armor Plating - Gain +1 stage of either DEF or SPD per turn, up to a max of 2 stages (Blaine/Giovanni/VR only) |
+| <img src="https://github.com/Crozwords/Roguemon/blob/main/images/ballmaster.png" width="25" height="25"> | Ball Master: Use balls to gain +1 to a random stat. Using prize icon does not consume turn. |
 
 ---
 
