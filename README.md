@@ -83,7 +83,7 @@ BST 371+ <br> Lt. Surge for -100 HP cap <br> Rock Tunnel for -50 HP Cap <br> Eri
 ---
 
 ## CURRENT GEN. VARIATIONS
-- These were changed for balance/difficulty of the challenge.
+- These were changed/left from previous generations for balance/difficulty of the challenge.
 
 CHANGES
 | :--------------------: |
